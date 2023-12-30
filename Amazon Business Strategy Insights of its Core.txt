@@ -1,0 +1,619 @@
+GreyB. (2022, February 18). Amazon Business Strategy: Insights of its Core Operations and Investment. GreyB. https://www.greyb.com/blog/amazon-business-strategy/
+
+‌
+
+
+
+November 26, 2023  +1-202-455-5058  sales@greyb.com
+World's Leading Technology Research Firm
+ Amazon’s Revenue in 2022 surpassed $500 billion but It’s still in a Loss
+Amazon’s Revenue in 2022 surpassed $500 billion but It’s still in a Loss
+ 11
+The study was first published on Feb 24, 2018, and then updated on Feb 13, 2020, Feb 4, 2021, Feb 18, 2022, and recently on Feb 15, 2023.
+
+Back in 1994, Jeff Bezos was stunned after discovering the 2300% growth rate of the Internet, which eventually led him to think about starting an online business.
+
+“You know, things just don’t grow that fast. It’s highly unusual, and that started me about thinking, ‘What kind of business plan might make sense in the context of that growth?’.” – Jeff Bezos
+
+When he asked his parents for money after sharing his idea, his dad’s first question was, “What’s the Internet?” which vividly indicates that at that time, people weren’t much aware of the Internet.
+
+Surely, selling things would be a problem for the young entrepreneur, but somehow, he found low-cost products that could be easily sold on the web.
+
+With his parents’ financial help of $245,573, Bezos started Amazon in his garage. Fortunately, now their investment is almost worth $30 billion – a 12,000,000% ROI.
+
+In 1997, three years after its launch and post-IPO, Amazon’s estimated worth was $438 Million. The startup gradually evolved into a multinational corporation and now is worth a marvelous $1.6 Trillion. The E-commerce giant is the second US company to cross a trillion-dollar valuation after Apple when its stock price reached an all-time high ($2050.50) on September 4, 2018.
+
+Internet was surely a huge part of Amazon’s growth, but technological innovation, marketing strategy, and, most importantly, its business model are what make Amazon the most innovative company of the current era.
+
+Amazon has grown significantly since its inception as a book-selling website and spread its wings to other areas like logistics, consumer technology, cloud computing, and most recently, media and entertainment – domains that did and would help Amazon tread the path to emerge as a trillion-dollar corporation.
+
+This Amazon business strategy study compiles the ideas, innovations, technological research, partnerships, and, most importantly, the strategies responsible for growing Amazon to such heights. You will also find their sales numbers in every segment and a brief summary of their stock prices for the past few years.
+
+The Strategies that Amazon has used over the years and benefited from are mentioned here. But wouldn’t this information have been immensely helpful to Amazon’s competitors a few years prior? Turns out they could have known Amazon’s moves beforehand.
+
+Amazon, in 2020, acquired Zoox, but one could have foreseen this decision had they been closely following the trail of patents that Amazon had created. One can find numerous patents on autonomous logistics in Amazon’s Portfolio.
+
+It has been forecasted that this recent acquisition can heavily affect companies in the logistics, ride-hailing, and food delivery domains. Amazon’s patent portfolio held a tell-tale sign of its interest in these domains. Possessing this information before Amazon’s acquisition could have saved these companies from this now-present threat looming over their businesses.
+
+If you wish to know about Amazon’s future plans and strategize your business moves accordingly, then going through Amazon’s patent portfolio is quintessential.
+
+Fill out the form below to know which areas Amazon has been focusing on, the tech areas in which Amazon is working, which countries they are securing their IP in, and their acquisitions in various nodes in the form of an interactive dashboard.
+
+
+While this study will give you more information about Amazon’s business strategy, it will also help you acquire some basic principles that could be applied to any kind of business.
+
+So, ladies and gentlemen, gather around and pay heed as we deeply dive into Amazon’s moves. Before we get started, presented below is the table of contents, which you can use to jump to the section of your choice in case you want to skip to the meat of the material.
+
+One more thing: I’ve converted this entire analysis into a PDF that you can download and save for later reading or even sharing. You can download it using the form below:
+
+
+Table of Contents
+Why is Amazon believed to be the most successful company in the Future?
+Amazon’s Achievements
+Growing Revenue
+Investors’ Expectations
+What is Amazon’s Business Strategy?
+Amazon’s Diversified Patent Portfolio
+Amazon’s Investment in Different Technologies
+Amazon In Entertainment Sector
+Becoming A Logistics Powerhouse
+Amazon Acquisition Strategy
+Amazon Investment Landscape
+Alexa Fund
+Amazon Financial Analysis
+Amazon Revenue Analysis
+Amazon Stock Analysis
+Amazon’s Business and Research Partnerships
+Why is Amazon believed to be the most successful company in the Future?
+Milestones after milestones, on the path to striving towards its personal zenith, Amazon has been recognized as one of the most successful companies. This statement is not a mere theory but purely supported by facts. Let’s have a look at some of them.
+
+Amazon’s Achievements
+FastCompany magazine listed Amazon as the most innovative company of 2017. Further, Amazon also ranked 3rd in MIT’s Smart Companies 2017 listing, following Nvidia and SpaceX.
+
+BCG placed Amazon as the 3rd most innovative company in 2022, while Forbes placed Amazon 5th in 2022.
+
+Amazon Fortune 500 ranking
+Source: Fortune
+
+That’s not it.
+
+Amazon ranked 8th on the Fortune 500 2018 list, 5th in 2019, and 2nd in the 2021 and 2022 lists – It’s the best rank ever since Amazon made its presence in the magazine for the first time in 2002. Since then, the company has been continuously listed on the coveted list, each with a rank better than the previous year.
+
+Growing Revenue
+In the last five years, the revenue of Amazon increased by 121% – from $232 billion in 2018 to a whopping $514 Billion in 2022. Finally, in 2022 alone, the revenue grew by 9% compared to 2021, surpassing the half-a-trillion milestone.
+
+The chart below portrays Amazon’s revenue for the past five years. In Billions. Mighty numbers, Amazon!
+
+Amazon Revenue 2022
+Launching their services to more markets and expanding horizons, Amazon – as a result of their eCommerce business model – increased their sales numbers, customers, and hence Revenue.  Besides, its AWS business contributes hugely to Amazon’s revenue stream.
+
+Amazon is equally expanding the operations for its three segments – North America, International, and AWS – where it offers its products and services to consumers, sellers, as well as developers, enterprises, and content creators.
+
+Amazon revenue segment wise
+Unsurprisingly, a big part of Amazon’s revenue comes from North America. Internationally, the company’s revenue decreased from $127.7 billion in 2021 to $118.0 in 2022 as the company is getting tough competition in big markets like India.
+
+Further, AWS has been bringing significant revenue every year as it became the biggest cloud service provider on the planet. In 2017, the company rendered more than 90 cloud computing services with the Internet of Things (IoT) tools. Big shots comprising Netflix, Unilever, GE, and NASA form some consumer bases using AWS for better web services.
+
+Investors’ Expectations
+Amazon is worth more than 1 trillion dollars, yet it makes little to no profit. With $514 billion in revenue, Amazon suffered a net loss of $2.7 billion.
+
+The reason for its huge market cap is investments. Investors took a huge interest in Amazon and bet a huge amount as they believe that Amazon could grow faster, longer, and bigger than almost any other firm.
+
+Even though in 2022, Amazon stocks performed badly, the investor’s hope suggests Amazon be the most profitable firm than any other, at least, in America. And they are expecting big profits in the future. Its sales already crossed the half-a-trillion-dollar mark. The only interesting thing would be to see is if, in 2023, Amazon would surpass Walmart in revenue.
+
+These are some potential pinpoints that force us to believe that it would.
+
+What is Amazon’s Business Strategy?
+“We’ve changed, again, the automation, the size, the scale many times, and we continue to learn and grow there.” – Brian Olsavsky, CFO, Amazon
+
+The business strategy of Amazon consists of focusing on investing in technologies, enhancing its logistics applications, improving its web services by fulfillment capacity, M&A strategy, R&D activities in logistics, experimenting with Fintech, and securing its inventions using patents.
+
+Let’s have a brief look at some of those.
+
+Amazon’s Diversified Patent Portfolio
+Amazon’s patent history is as old as the company itself. With the first patent filed in 1995, it is easy to guess that the company now owns patents in thousands. As Amazon gradually increased its patent filing activities in the starting years of the company. 
+
+The major increase in filing activity can be noticed from 2010, when Amazon became more than an online retailer. 
+
+Amazon patent filing trend
+By 2011, Amazon had filed patents for multiple technologies, such as Cloud Computing, which is the third biggest source of revenue for Amazon. Amazon has also started filing patent applications for Augmented Reality, Speech Analysis (Alexa).
+
+Amazon’s biggest patent share can be found in Logistics and Artificial Intelligence. Besides these, Media Entertainment and E-commerce applications hold a fair share of the Amazon Patent Portfolio.
+
+Amazon Patents technological distribution
+Amazon is a very diversified company, so the range of its patents can be very vast. 
+
+But it is clear that in some sectors, Amazon wants to be at the top.
+
+In Logistics, Amazon now competes with traditional logistics companies such as FedEx and DHL. 
+
+During the Pandemic, when all businesses were down, Amazon had something else to plan to make the global crisis an opportunity. 
+
+Amazon leased 12 Boeing 767-300 cargo aircraft, bringing its air fleet above 80 jets. According to an industry consultant, it added 220 package facilities since the start of the year, ranging from urban delivery stations to giant warehouses.
+
+The company is close to building a logistic system to deliver one-day packages for customers and overtake its logistics rivals.
+
+Amazon has been filing patents for logistics for a long time but the increase in activity can be seen after 2010.
+
+
+
+In 2016, Amazon filed a record of 268 patents alone for Logistics. Amazon has been filing logistics patents for a long time, but in 2016, it went for big numbers. 
+
+Amazon has covered almost everything for logistics, whether air, land, sea, or underground. Amazon has filed patents to deliver a shipment from any medium.
+
+Amazon has hundreds of fulfillment centers all over the world. Also, Amazon wishes to be flying fulfillment centers that house drones to deliver packages. 
+
+In Dec 2014, Amazon filed a patent for an Airborne Fulfillment center with drones for package deliveries. 
+
+
+
+The idea seems to be futuristic as of now, but it’s one of the pillars of Amazon, i.e., long-term thinking. This idea could become a mainstream medium for package delivery in the future. The important thing is it shows how innovative Amazon can be when it comes to as simple as making an item delivery. 
+
+Further, Amazon filed for other types of fulfillment centers that house drones and cargo trucks. 
+
+Besides Logistics, Amazon’s AWS arm is significantly bigger than many of the big corporations, as it generated $80 billion in revenue with a $22.8 billion Operating Income in 2022. 
+
+Amazon has been filing patents for Cloud Computing since 2010. Amazon is probably the biggest cloud computing company in terms of revenue compared to Microsoft.
+
+Also, Amazon is one of the top companies in Edge computing. With enough resources to build an edge portfolio, Amazon also owns tens of patents in Edge computing.
+
+Further, Amazon’s Alexa Everywhere strategy seems to work as the company includes more and more features for its assistant and Alexa-enabled devices. Amazon has filed significant patents on Speech Recognition. 
+
+They even filed an Alexa patent that can recognize your physical and emotional states and can suggest relevant solutions.
+
+
+
+For more Amazon Alexa Patents: Click here. 
+
+Amazon is not just dependent on in-house patent filing but also acquires patents. The famous Zoox acquisition is said to have made Amazon enter the self-driving vehicle market. However, besides Zoox’s position in the market, Amazon found its patent portfolio amazing. 
+
+IAM also says that Zoox patents are the fifth most cited patents by others for self-driving technology. Further, it owns two of the three most-cited grants by other levels 4 and 5 patent owners.
+
+Zoox cited patents
+Source: IAM
+“Amazon’s plans to put a fleet of autonomous taxis as well as delivery vehicles on the road, the acquisition appears to have handed it a powerful stockpile of IP to secure freedom to operate in what is only going to become a more crowded field.”, says IAM. 
+
+Amazon Patent Prosecution Stats
+
+We looked ahead and looked at Amazon’s pending patent applications currently in the US patent office. Below are our findings on how their patents perform in the patent office and their prosecution process.
+
+Amazon has an impressive 97.26% grant rate for its patents.
+Amazon has filed 14316 patent applications at USPTO so far (Excluding Design and PCT applications). Out of these 12764 have been granted leading to the grant rate of 97.26%. Not only this, the application Abandonment/Rejection rate of Amazon is meager at 2.47% and only 299 applications have faced abandonment or rejection. – Insights;Gate by GreyB
+
+The data below is a bird’s eye view of Amazon’s pending patent applications at the US patent office. Our in-house prosecution intelligence tool – FIT – was used to perform this analysis. You can explore more about FIT from here.
+
+Currently, Amazon has 1108 patent applications pending at USPTO. Under the lens, 654 patent applications out of these are on the right track to a smooth grant; however, the rest of the 454 applications are facing high difficulty at the office. Some of them are already in the danger zone.
+
+These patent applications are getting more than an average number of rejections or taking longer than the average time than other applications in similar tech areas. We segregated all these applications into 3 categories:
+
+SOS – Facing High difficulty at USPTO
+At-Risk – Applications that were running smoothly but of late have started displaying high probabilities of turning into an SOS application
+On-Track – Running smooth as butter
+Below are the patent applications based on their group art units, how many of them are on the right track, and which ones need intervention:
+
+
+These are the Top 4 tech areas where Amazon’s maximum number of applications are currently pending at the USPTO. The number of an application under the SOS column are the ones that need immediate intervention from Amazon’s IP team.
+
+This overviewed Amazon’s patent applications and their performance at USPTO. As I mentioned above, the insights you see here were extracted from our in-house FIT tool. FIT also suggests the type of actions Amazon or any applicant can take to help their patent application get granted smoothly.
+
+If you’re interested, you can read more about FIT and how it helps strengthen your patent prosecution process from here.
+
+Fill the form below to know which areas amazon has been showering its attention on, the tech areas in which Amazon is researching, which countries they are securing their Patents in, and their acquisitions in various nodes in the form of an interactive dashboard.
+
+
+Amazon’s Investment in Different Technologies
+Amazon Robotics
+Amazon has been investing considerably in robotic and drone technologies for the past decade and has acquired many patents on them. Its warehouses alone house more than 45,000 robots.
+
+In 2012, Amazon acquired Kiva Systems – a company that designs robots for the picking and packing process – for $775 million. By 2014, the company had 14,000 robots for its 10 warehouses. The following year, the count increased by 114% to 30,000 robots, and in 2017, the number increased by 50% to 45,000 robots across 20 warehouses.
+
+In addition to acquisitions, Amazon also organizes challenges in different universities and institutes worldwide, offering a large sum of money for inventing a next-generation robot. In 2017, the prize money was $250,000.
+
+Amazon Drones
+Amazon is also researching drones for its initiative and future drone delivery service. In Britain, Amazon started its drone delivery service under Amazon Prime Air.
+
+In Oct 2017, the US Federal Government also approved a drone delivery program in the US. The administration stated that they wanted to open new opportunities and commercial uses for drones to create jobs.
+
+Amazon recently filed numerous drone patents on package delivery, a parachute, and a floating airship warehouse. Also, it has patents on drone design for better maneuvering, secure landing, and long flights.
+
+On an advanced level, they got a patent for a method to charge electric vehicles through drones. This shows their interest in automobiles as the future will require many methods to charge an EV. Further, there would be no surprise if Amazon ventures into the automobile domain.
+
+But in Aug 2021, Amazon shut down the drone delivery program, Prime Air, in the UK as it removed more than 100 employees from the program, says a report by Wired.
+
+Five years ago, it was a big thing for Amazon but the focus slowly shifted to autonomous vehicles which saw a huge acquisition by Amazon. As per Amazon, people are still working on the project but it is unclear and less likely that Amazon is giving priority to drone delivery.
+
+Amazon Alexa
+“These big trends are not that hard to spot (they get talked and written about a lot), but they can be strangely hard for large organizations to embrace. We’re in the middle of an obvious one right now: machine learning and artificial intelligence.”  – Jeff Bezos 
+
+Artificial Intelligence is one tough area where despite having many competitors Amazon got a big draw. It’s continuously focusing on AI and machine learning to enhance the customer experience. The segment AWS and its venture Alexa Internet is a big part of their investment in AI.
+
+In October 2017, the company announced a new research center in Germany focused on developing AI. During the same month, the company and Microsoft partnered to roll out new tools that will make it easier for developers to use open-source artificial intelligence software. Developers can use Gluon, a Python-based application programming interface, to easily work with MXNet, the AI framework backed by public cloud market leader Amazon Web Services.
+
+Amazon’s partnership with Microsoft also ensures collaboration for researching in AI where their personal assistants Cortana and Alexa would communicate with each other and will offer services to the users.
+
+“Ensuring Cortana is available for our customers everywhere and across any device is a key priority for us. Bringing Cortana’s knowledge, Office 365 integration, commitments, and reminders to Alexa are a great step toward that goal.” – Satya Nadella, CEO, Microsoft
+
+In Jan 2021, Amazon announced Alexa Custom Assistant, a new service that lets device makers, automakers, and service providers create custom-branded voice assistants that are powered by and work in cooperation with Alexa. The Alexa Custom Assistant can be built into automobiles and consumer electronics, including smart displays, speakers, set-top boxes, fitness devices, and more, providing a complete, managed voice solution that substantially reduces cost, complexity, and time to market.
+
+Alexa Everywhere – Strategy
+
+Amazon announced its Alexa Everywhere strategy in 2017 and surprisingly it became a huge success despite the presence of other top personal assistants in the market.
+
+Alexa, Amazon’s AI-infused voice assistant, was first released with the original Amazon Echo smart speaker in November 2014. Since then, it’s been giving head-to-head competition to its rival Google Home and now Apple also has joined the race with its Siri-enabled speaker, Homepod.
+
+In 2017, Amazon announced to install Alexa (AI) in every echo device and launched a number of new products. Currently, Amazon Echo and Echo Dot hold 2/3 market share of smart speakers – beating Google Home and Apple Homepod to a great margin. Amazon also announced two major Alexa integrations for non-Echo devices. Amazon further revealed that Alexa would be supported in BMW cars beginning of the next year.
+
+Further, the Fire TV set-top box was launched with microphones embedded in the device so consumers can shout Alexa commands across their homes.
+
+Alexa, Play The Boys.
+
+If that was not it, Alexa-based in-house drones were released, which could be called from anywhere around the house.
+
+Alexa, Where’s my drone?
+
+Alexa became more multilingual, allowing household members to interact with Alexa in two languages without changing the settings. In the U.S., the multilingual mode allows bilingual customers to code-switch from English to Spanish and vice versa. Amazon also launched a multilingual mode in new languages and countries, including Germany, Spain, France, Italy, and Japan.
+
+Further, Amazon added new Alexa features that make customers’ daily lives more convenient, including sharing a shopping list with Alexa contacts by voice, video calling on Fire TV, and new Alexa Routines on Fire TV.
+
+Amazon Go
+
+
+In Dec 2016, Amazon demonstrated the world’s most advanced physical store. In 2018, Amazon officially opened the store to the public and showed the world that its machine-learning research could eliminate jobs.
+
+In Feb 2020, Amazon opened the first cashier-less grocery store using “Just Walk Out” technology that powered 25 Amazon Go stores.
+
+The store has no checkout point and, therefore, has no cashier for making payments for your purchases. The payment can be added automatically to the cart whenever you take a product from the shelves. And after the purchase, the payment automatically gets deducted from your account or digital wallet.
+
+Amazon Web Services (AWS)
+Amazon has recently acquired companies in the cloud computing space and invested in businesses based on the cloud. In early 2017, the company acquired many companies to strengthen its AWS Cloud business. Some of these include GameSparks, Thinkbox Software, and Harvest.ai. Additionally, Amazon invested in Grail, which is a potential future customer of Amazon’s cloud services.
+
+In order to increase the usage of its cloud technology, Amazon Web Services (AWS) is investing some of its money to open data centers in Britain and France.
+
+In 2020, Amazon’s cloud segment, AWS, accounted for 58.9% of the company’s overall operating income.
+
+Autonomous Vehicles
+The tech and automotive industries alike are abuzz with the news of Amazon acquiring Zoox, a California-based startup that develops autonomous driving technology in a deal estimated to be worth over $1.3 billion.
+
+Amazon announced in late June that they are acquiring Zoox “to help bring their vision of autonomous ride-hailing to reality”.
+
+Although it was the first strong move by Amazon to take part in autonomous vehicles, there were certain pieces that suggest the company’s interest in driverless vehicles before this deal.
+
+The company has invested in one of the top autonomous driving startups, Aurora, and it has tested self-driving trucks powered by self-driving freight startup Embark. 
+
+Since Amazon has been aggressively investing and researching in the domain of autonomous vehicles and various automated methods of delivery.
+
+In Dec 2020, Zoox revealed the first look at their fully functional, electric, autonomous vehicle, which features bi-directional driving and is capable of speeds up to 75 miles per hour.
+
+Zoox Car
+Wants to know about Zoox Patent Portfolio, here is a glimpse: Zoox Patent Portfolio.
+
+Amazon In Entertainment Sector
+Amazon Prime Video
+Amazon has been investing in TV series and movies either by acquisition or production as it strives to compete with streaming rivals Netflix, HBO, Hulu, and Disney. In 2022, Amazon bought MGM and acquired the rights to big franchise like James Bond.
+
+
+Though Amazon Prime members can enjoy their streaming service as a part of the membership, Amazon also launched a video-only plan for non-prime members for a cost of $8.99/month.
+
+“Amazon planned to triple the amount of original content over the rest of the year, and it’s probably safe to assume that its torrid investment pace will continue into 2017.” – Amazon CFO, Brian Olsavsky,
+
+In 2017, Amazon acquired many TV shows and movies. Amazon acquired Marvel’s Inhumans and Runaways to give good competition to Netflix — which also owns the rights to stream some of Marvel’s shows.
+
+Amazon also spent a big amount on some small-budget movies that have excellent reviews. They paid  $12 Million for ‘The Big Sick’ even before its theatrical release. It’s the amazing reviews – 98% Rotten Tomatoes – that made Amazon pay the price.
+
+Amazon has over 126 million Prime members in the U.S. while Netflix has 73.94 million subscribers. After the success of Prime in the U.S., Amazon is pushing the same playbook in Europe.
+
+Prime Video continues to launch Amazon Original series and movies globally. Amazon’s Original movie Borat Subsequent Moviefilm, starring Sacha Baron Cohen, generated tens of millions of customer streams globally on opening weekend.
+
+In 2022, Amazon released the most expensive TV series Lord of the Rings: The Rings of Power. Its superhero series The Boys is also regarded as the best superhero show of the year despite having big competition with Marvel and DC franchises.
+
+Amazon Studios
+Alone creating a video-streaming service is not going to help, that’s why Amazon went for creating its own film and tv series production distributor, known as Amazon Studios. Currently, the original content by Amazon is too less when compared to other services such as Netflix, Hulu, and HBO. But Amazon has planned to produce its own content with a great number.
+
+Amazon studios not only focus on English content but also works on content related to a particular geography.
+
+
+Much of Amazon’s original content has won major awards. For example, Manchester By the Sea, which was nominated for six Academy Awards, made Amazon Studios the first streaming service to nominate for the Academy Award for Best Picture. The Marvelous Mrs. Maisel and Fleabag are some top-performing and award-winning TV series created by Amazon.
+
+Amazon Studios announced deals for upcoming Prime Video series and movies, including the Eddie Murphy comedy Coming 2 America, which premieres in March 2021 on Prime Video globally, and an unscripted docuseries and new coming-of-age series based on Jessica Simpson’s best-selling memoir Open Book.
+
+On May 26, 2021, Amazon acquired MGM for $8.45 billion. And with this acquisition, Amazon also acquired MGM’s vast content library of 4000 films including classics such as 12 Angry Men, Basic Instinct, Legally Blonde, Silence of the Lamb, Rocky, and the James Bond franchise as well as 17000 TV shows – including Fargo, Vikings, and The Handmaid’s Tale.
+
+Prime Music
+
+Amazon is not limited to providing video streaming as the company also has its own music streaming platform – tough competition for Spotify, YouTube Music, Apple Music, etc. Amazon has millions of songs in its library which they are offering to its prime members. Prime Music is a kind of gift for their prime members as the company isn’t charging any extra cost for this music platform.
+
+It’s cool, isn’t it?
+
+Even for a better experience, Amazon integrated Alexa into its music app which can help you find the songs you are searching for.
+
+Further, Amazon Music signed an agreement to acquire an innovative podcast publisher, Wondery. Through this acquisition, Amazon Music aims to accelerate the growth and evolution of podcasts by bringing creators, hosts, and immersive experiences to even more listeners across the globe.
+
+Becoming A Logistics Powerhouse
+Amazon is opening small warehouses to support Prime Now and Amazon Fresh – its grocery delivery service. In Germany where a rapid expansion in online grocery delivery is expected, Amazon has been running warehouse purchase plans to tap into the market opportunity.
+
+Amazon Fulfillment Centers
+In Jan 2020, Amazon said it has 110 active fulfillment centers in the US and 185 globally.
+
+Its plans include investing heavily in expanding fulfillment centers and other logistics capabilities. Driving further growth in the number of sellers and packages going through Fulfilled by Amazon (FBA) is a key focus.
+
+Amazon Logistics App
+To strengthen the logistics and delivery network, Amazon announced developing an app to help truck drivers. Amazon hired aggressively for the project and announced to launch of it in 2017.  In November 2017, they secretly launched the app, Relay. The app makes it easier for truck drivers to pick up and drop off packages at Amazon warehouses. Besides, Amazon is also working on a second app that could connect truck drivers with cargo.
+
+Amazon Prime Air
+In March 2016, Amazon gave a public demo of its Prime Air delivery drones in the US. The concept has multiple regulatory barriers. However, the situation may get better, as in October 2017, the Trump Government issued an order giving local governments more authority to conduct tests of such new technologies.
+
+Amazon is experimenting with a new delivery service intended to make more products available for free two-day delivery and relieve overcrowding in its warehouses.
+
+The service, Seller Flex, began two years ago in India, and Amazon has been slowly marketing it to US merchants in preparation for national expansion. The trial began this year on the West Coast with a broader rollout planned in 2018.
+
+Amazon will oversee the pickup of packages from warehouses of third-party merchants selling goods on Amazon.com and their delivery to customers’ homes. Handling more deliveries is expected to provide Amazon with greater flexibility and control over the last mile to shoppers’ doorsteps.
+
+Logistics Partnership
+In October 2017, French supermarket operator Leclerc was approached by Amazon for a possible logistics partnership. This probable collaboration shows Amazon’s intentions to expand in the supermarket sector.
+
+The partnership and other logistic investments became an immediate reason for other services’ fall as companies like UPS and FedEx’s share prices dropped drastically. UPS shares fell as much as 2.1% to $116.52 and were trading down 1.3% in New York on October 4th, 2017. FedEx dipped by 1.6% to $217.77 before recovering somewhat to $220.09 on October 4th, 2017.
+
+Amazon Acquisition Strategy
+Amazon has been harnessing aggressively its merger and acquisition strategy, as it closed 30+ deals in the past five years. In the first two quarters of 2017 alone, the company closed eight deals that cost them an arm and a leg.
+
+The chart below summarizes the M&As of Amazon from 2017 to 2021.
+
+Amazon acquisitions
+2020 saw a big drop in M&A activity but it’s also the year when Amazon surprised the world by acquiring Zoox for more than $1 billion, making it the company’s one of biggest acquisitions. With it, Amazon has entered the self-driving industry as well.
+
+2021 saw the second-biggest acquisition of Amazon when it acquired MGM for $8.45 billion to boost its streaming services Prime Video. MGM owns 4000 movie titles and 17000 TV series which are enough to attract customers to its streaming platform to binge on some of the classic movies such as 12 Angry Men, Basic Instinct, Legally Blonde, Rocky, and the evergreen James Bond movies.
+
+During the last few years, Amazon made multiple acquisitions to strengthen its core e-commerce operations. Additionally, it also invested in technology companies such as Harvest.ai – a cybersecurity player, and Do.com – a software for meeting productivity needs.
+
+In June 2017, Amazon acquired grocery giant Whole Foods for a whopping $13.7 billion. Buying Whole Foods has been a big step ahead for Amazon as it not only strengthened its grocery e-commerce segment but also opened doors to new opportunities.
+
+Internationally, Amazon expanded its operations by acquiring other businesses such as Souq.com in the middle-east for growing e-commerce in the region.
+
+Amazon made their first acquisition of 2018 — their second-biggest ever —  in a deal valued more than $1 Billion purchasing Ring, a video doorbell maker that shows their interest in robust home security to flourish their Amazon Key service.
+
+In 2022, Amazon made two big acquisitions, i.e. One Medical and iRobot both billion-dollar acquisitions. With One Medical, Amazon could create a healthcare ecosystem that it could include in its retail store, prime memberships, etc. Consider it similar to what Amazon has done with Whole Foods.
+
+And with iRobot, the company could get potential data from people’s homes such as mapping and layout thus raising concerns for privacy by FTC.
+
+Here are the 10 biggest acquisitions of Amazon:
+
+Amazon biggest acqusiitions
+
+
+New Businesses and Emerging Markets
+
+Amazon has been experimenting with fintech initiatives and intends to become a prominent player in the fintech segment. Amazon nearly lent out $1 billion in small loans in 2016.
+
+In India, the company has been offering thousands of loans to e-sellers so suppliers can expand their operations and manage seasonal spikes.
+
+Amazon expanded its financial reach by launching Amazon Cash which allows users to add to their Amazon.com balance by showing barcodes at brick-and-mortar checkout locations.
+
+“Amazon is the most formidable. If Amazon can get you lower-debt payments or give you a bank account, you’ll buy more stuff on Amazon.” –  Alex Rampell, Partner, Andreessen Horowitz
+
+Amazon makes big moves in emerging markets too. One of the key international markets targeted by Amazon is India, which is perceived to be one of the fastest-growing e-commerce markets globally in the near future.
+
+In Late 2016, the company’s CEO Jeff Bezos announced an additional investment of $3 billion in India, taking its net investment to over $5 billion in the country. This amount is more than the company’s total capital expenditure of $4.5 billion in 2016. Looks like Amazon sees huge potential in India.
+
+In October 2017, Amazon announced to expansion in Brazil to enter the electronics and appliances marketplace. Amazon also expanded its operations in the Middle East, one of the fastest-growing e-commerce markets in the world. It acquired Souq in the UAE to serve the local market. In September, Amazon-owned Souq acquired Wing.ae, a startup that is building a network for Prime-style same-day and next-day deliveries for various e-commerce marketplaces.
+
+On May 21, 2020, in the midst of a pandemic, Amazon launched a food delivery service in India. The service known as Amazon Food is currently available in Bangalore now but with top players having a setback the company has enough resources to go big and be a worthy competitor.
+
+In Nov 2020, Amazon opened yet another venture called Amazon Pharmacy that could disrupt US healthcare. With the service, the company offers prescription medications to customers’ doorsteps. Customers can now browse medications, create a secure pharmacy profile, and request or manage prescriptions on Amazon.com. Just like other services, Amazon offers Prime members unlimited, free two-day delivery on Amazon Pharmacy orders with their membership.
+
+Amazon Investment Landscape
+Amazon is investing in a wider variety of industries. During the period of 2011-2013, Amazon slowed down its investment activities as it invested mostly in internet companies.
+
+During 2014-2016, the company changed its investment strategies and started channelizing investment in other industries like Media, Auto & Transport, and Mobile. Amazon also made a few other big investments, as they invested in the UK-based Yodel Delivery Network to expand its logistics network in the UK.
+
+In 2016, Amazon partnered with Twilio to strengthen its communication platform through text and voice messaging.
+
+In 2017, Amazon invested in a healthcare startup Grail which specializes in genomics for cancer diagnostics. This is Amazon’s first investment in the life science segment.
+
+In the last few years, Amazon focused on late-stage deals where most of the investment amount fell into the $10M-$20M range.
+
+Alexa Fund
+Amazon founded the investment venture in 2015. The Alexa Fund provides up to $200 million in venture capital funding to fuel voice technology innovation.
+
+As of Feb 4, 2021, Alexa Fund has made 102 investments in startups of different industries such as AI/ML, Education, Fintech, Gaming, Hardware, Health, Mobility, Robotics, Smart Home, and Voice Developer Tools. 
+
+The maximum number of investments can be seen in Artificial Intelligence (10 startups), Healthcare (13 startups), and Smart Home (11 startups) sectors.
+
+Here are the last 10 investments made by Alexa Fund:
+
+Alexa Fund Investments
+Source: Crunchbase
+Amazon Financial Analysis
+Amazon Revenue Analysis
+Recently, Amazon announced its revenue for the 4th quarter of 2022, and with that, we found its overall revenue for 2022. AWS arm proved to be the most profitable segment raking in $22 billion operating income alone leading to record-breaking sales in 2022.
+
+Amazon revenue and operating income
+There are several reasons for this immense growth of Amazon’s revenue. While its online shopping business is the major source of revenue, its physical stores didn’t generate many sales due to the pandemic.
+
+The subscription service also grew but a significant growth happened due to third-party sellers which accounted for $117.71 billion dollars, crossing the 100-billion mark for the first time. Amazon is a huge marketplace and one can sell their products via Amazon for which the company takes a margin of 15 to 20%.
+
+Its online stores also achieved a record of crossing the 200-billion mark for the first time. Amazon now has two divisions with a revenue of more than $100 billion.
+
+Furthermore, advertising on Amazon is also increasing at a faster rate and accounted for $37.73 billion in 2022. The potential of Amazon’s advertising business has such potential that analysts affirmed it could surpass the AWS revenue by 2021. It didn’t surpass AWS revenue but it sure saw immense growth. Considering the AWS revenue, it’s highly unlikely that Advertisement can surpass AWS in the next 3 years.
+
+
+Majorly, Amazon operations, from the revenue perspective, can be divided into three major segments: North America, International, and AWS.
+
+North America Segment
+The segment includes earnings from retail sales of consumer products (including sellers) and subscriptions through North America-focused websites. The major competitors in the North American region are Best Buy, Target, eBay, Peapod, and Netflix.
+
+Amazon North America Revenue 2022
+The chart above shows both the sales and operating income of Amazon in North America for the last three years.
+
+The segment is responsible for 61.2% of the total revenue.
+
+North America has three sub-segments namely Media, Electronics, and other general merchandise and others. Electronics and other general merchandise represent the highest share of sales in North America with consistent growth.
+
+International Segment
+The international segment includes earnings from retail sales of consumer products and subscriptions through internationally-focused websites. The chief challengers are Alibaba Group in China, Woolworths in Australia, Rakuten in Japan, Flipkart in India, and JD.com in the United Kingdom.
+
+Amazon International Revenue 2022
+Amazon International Segment Revenue decreased to $118 billion in 2022 with an operating loss of $7.7 billion.
+
+Last year, it seemed like the segment would turn profitable in 2022 but the opposite happened. The segment has yet to become profitable and it might take 3 or more years for this segment to become profitable.
+
+The sales growth was due to increased unit sales, including sales by marketplace sellers. The changes in foreign currency exchange rates impacted International net sales. Increased unit sales were driven largely by the continued efforts to reduce prices.
+
+Amazon hosts the three major sub-segments, i.e. Media, Electronics, and other merchandise and Others, internationally. With Prime Services, the Electronics and other general merchandise successfully increased sales in the International segment, too which was more than $30 billion.
+
+AWS Segment
+Like every year, AWS was the most profitable segment of 2022, thanks to the Amazon B2B strategy, which bagged $22.8 billion operating income.
+
+AWS Revenue 2022
+The AWS segment is earning from global sales of computing, storage, database, and other service offerings for startups, enterprises, government agencies, and academic institutions. The major rivals in this segment are Microsoft, Google, Oracle, and IBM.
+
+AWS is the fastest-growing segment of Amazon in terms of sales and net income. The sales increased by 30% in 2022. Amazon’s increased sales are proof of growing consumers and product cost structure.
+
+Amazon Stock Analysis
+The year 2022 was generally bad for Amazon’s stock price. The company split its stock 20 to 1 in June 2022. Further, Amazon is one of the worst-performing stocks of 2022 as it declined more than 50% in 2022.
+
+Amazon hasn’t seen good growth in terms of stock in 2022 compared to its counterparts like Alphabet, Apple, and Microsoft.
+
+Amazon stock price
+After comparing the 52-week low and high, Amazon stock shows a growth of only 2.3%. This is the lowest growth in the last 5 years.
+
+Amazon has a total of 10.24 billion shares and 59.83% of the total share. i.e. 6.13 billion shares are being held by Institutional holders that make a total holding of $620 billion.
+
+Amazon stock holdings
+Undoubtedly, the world’s richest man holds the most shares – 992 billion. This makes his net worth $124.7 Billion. His net worth surpassed the $100 Billion mark for the first time on November 24, 2017, when the share prices increased by 2.5%. In November, he sold 1 Million shares when the price reached an all-time high of $1100/share which helped him make $1.1 billion.
+
+With 233 billion shares, Mackenzie is the 2nd largest individual shareholder of Amazon making her net worth more than $27 billion. .
+
+Amazon’s Business and Research Partnerships
+Amazon and Microsoft partnered to integrate Alexa and Cortana
+In August of 2017, Amazon and Microsoft entered into a partnership for better integration of their Alexa and Cortana digital assistants. This cross-platform integration would allow Alexa users to access some unique aspects of Cortana and vice-versa.
+
+Amazon and Ford partnered to access cars from a distance
+Ford and Amazon teamed up to offer consumers the ability to access their cars from a distance. This is done by bringing Amazon Echo into Ford’s cars. With the help of Alexa – Amazon’s cloud-based voice service, the car lets you control functions such as lighting, security systems, garage doors, and other Alexa smart home devices.
+
+Dish Network and Amazon wireless collaboration
+Dish Network is looking to use an e-commerce platform, streaming service, home assistant (Amazon Echo), and proposed drone delivery services, in collaboration with Amazon and T-Mobile USA. According to the deal, Dish will utilize their spectrum for wireless service, in collaboration with Amazon and T-Mobile USA.
+
+Cognizant is a Premier Consulting Partner for AWS
+Cognizant in partnership with AWS provides services like migration competency, big data, workspaces, healthcare and life sciences, financial services, and SharePoint. The AWS Cognizant Team (ACT) delivers the differentiating integration strategy and creates industry-specific and horizontal solutions for their mutual customers.
+
+Amazon and Accenture united
+Amazon and Accenture combined to precipitate real innovation by combining AI tools into a contact center running from the cloud. Amazon offers Amazon Connect, a fully hosted, customizable, cloud-based contact center service. The collab structures such that Accenture would help its clients rapidly deploy Amazon Connect at scale and build vertical industry applications that use AWS AI services. The partnership will focus on delivering cloud transformation projects.
+
+Nokia announces a Strategic collaboration with Amazon Web Services
+Nokia and Amazon Web Services (AWS) collaborated given the rising need for “tighter integration” between networking and IT infrastructure. The partnership will improve cloud migration and software-defined wide-area networking (SD-WAN) services for enterprises, along with working across the development of 5G and Internet of Things (IoT) use cases.
+
+2nd Watch Named AWS Management Tools Service Delivery Launch Partner
+2nd Watch achieved AWS Service Delivery Launch Partner status for three Amazon Web Services (AWS) Management Tools in the AWS Service Delivery Program. The Partner Program is designed for those who are skilled at cloud infrastructure, and application migration and deliver value to customers by offering proactive monitoring, automation, and management of their customer’s environment.
+
+Ericsson wants a presence in Cloud Computing by merging with AWS
+Ericsson which is one of the top companies working on 5G also wants to strengthen its position in cloud computing. In 2016, the Swiss giant worked with AWS for enhancing its infrastructure for developing and deploying mobile apps.
+
+Conclusion
+
+Amazon, for quite some time, has been focusing its efforts on cloud services and its personal assistant Alexa for which it has raised millions in Funding. Further, it is also trying to make Alexa a smarter assistant by hiring more AI talents.
+
+The increase in the sales of AWS suggests it might become a favorite choice for corporations in the future. Prime, after record-breaking sales, is getting bigger in India and Mid-East. Further, the company is trying to get a hold of the Indian Fintech market for which in Dec 2017, it funded a digital lending startup Capital Float.
+
+Last year, Jeff Bezos also announced its $1 billion investment in India for the next five years.
+
+The company has hit $457 billion in revenue and has more than $1.6 Trillion in market capitalization.
+
+Such huge sources could make Amazon enter any kind of business they want and this could be a problem for the players in different domains. Zoox acquisition is a solid example as it could make other autonomous vehicle companies a run for the money. 
+
+But when talking about the most noteworthy competitor of Amazon, Walmart would be the prime choice.
+
+Even though Amazon is way ahead of Walmart in terms of market capitalization, in revenue, it’s still behind Walmart. Sources predict that Amazon would overtake Walmart’s revenue by 2022 but it would another or two years for Amazon to overthrow Walmart from Fortune 500 rank 1.
+
+Amazon already surpassed Walmart as the world’s largest retailer in 2019 and in the coming one or two years, it would surpass Walmart’s revenue too.
+
+But after a downfall, Walmart too has taken new steps to be more than a retail company and has now collected resources to give Amazon tough competition. Walmart now understands the value of technology as the company started investing in technologies and patents to take on Amazon.
+
+Related Study: Strategy for Walmart’s Rise: A Tech-Centric Approach to Compete with Amazon
+
+Authored by: Vipin Singh, Sr. Research Analyst, Market Research.
+
+Share via:
+
+LinkedIn
+Twitter
+Facebook
+Email
+SHOWING 11 COMMENTS
+
+Joe KolanDecember 11, 2020Reply
+Honestly, I’ve bookmarked this blog having crucial information. I might admire your work done in this blog post/article. I am happy to read. Please keep posting more and more. Thanks once again for posting.
+
+
+NavalFebruary 18, 2021Reply
+I read your post and this blog is very good. You have good knowledge on this. This post really impressed me. Thank you for sharing your knowledge with all of us.
+
+
+Oscar CuevasMay 6, 2021Reply
+Mr. Singh, the quality of this analysis is beyond expected, thank you, looking forward to read more about your precise work. Congratulations!
+
+PINGBACKS / TRACKBACKS
+Why Amazon would be the first company to cross a trillion dollar mark? ~ Dharak infotech
+[…] Position in Business Amazon business strategy is what makes the company better than others. Amazon is currently one of top strong companies of […]
+
+April 6th, 2018 06:50 PM
+ORGANIZATIONAL CHANGE STRATEGY & THEORY: AMAZON – Srujit Biradawada
+[…] Vipin, S. (n.d.) – “Amazon Business Strategy: Insights Of Its Operation And Investment Plan To Become A Trillion Dollar Corporation.” Retrieved on July 17, 2019 from https://www.greyb.com/amazon-business-strategy/ […]
+
+August 26th, 2020 07:26 AM
+ORGANIZATIONAL CHANGE STRATEGY & THEORY: AMAZON (Part 6) – Srujit Biradawada
+[…] Vipin, S. (n.d.) – “Amazon Business Strategy: Insights Of Its Operation And Investment Plan To Become A Trillion Dollar Corporation.” Retrieved on July 17, 2019 from https://www.greyb.com/amazon-business-strategy/ […]
+
+August 27th, 2020 03:02 AM
+Writing Case 3 – My MBA Blog
+[…] Greyb.com (2018). Amazon Business Strategy: Insights of its operation and investment plan to become the top Fortune 500 company. https://www.greyb.com/amazon-business-strategy/ […]
+
+May 18th, 2022 07:37 AM
+BSS052-6 Project and Operations Management Assignment Sample 2022
+[…] 2021, Amazon Business Strategy, Available at: https://www.greyb.com/amazon-business-strategy/, [Accessed on: […]
+
+September 8th, 2022 03:31 PM
+Amazon's Business Strategy and Corporate Structure | Business Paper Example
+[…] V. (2020). Amazon business strategy: Insights of its operation and investment plan to become the top Fortune 50…. GreyB. […]
+
+December 6th, 2022 01:00 AM
+Amazon Operations Management Strategies – Business Managment
+[…] GreyB services, Panmore Institute, PenMyPaper […]
+
+April 15th, 2023 09:43 AM
+Unlocking Seamless Collaboration: How Melp’s Intercommunication App Transforms Business Relations – Create, Communicate, Collaborate | Melp
+[…] with vendors is a critical aspect of business operations. Fortune 500 giants like Amazon and Walmart have recognized the importance of efficient vendor communication. MelpApp provides a […]
+
+September 9th, 2023 07:40 PM
+LEAVE A COMMENT
+LEAVE YOUR COMMENT
+Name *
+Email *
+Website
+Save my name, email, and website in this browser for the next time I comment.
+
+PROJECT QUERIES
+Deepak Syal (Director)
++91-8297806050
+Chakshu Kalra (Director)
++91-9878481471
+UNITED STATES
++1-202-455-5058
+SINGAPORE
++65 84306322
+greyb hiring footer
+HIRING QUERIES
+Pooja Sehgal (HR)
++91 8427102546
+Vaishali Shorey (Talent Lead)
++91 7589465756
+hr@greyb.com
+GreyBGreyB Services  © 2023
+Privacy Policy
+About
+Services
+Blog
+Contact
+LinkedIn
+Twitter
+Facebook
+Email

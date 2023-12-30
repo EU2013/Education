@@ -1,0 +1,149 @@
+Armstrong, B. (2023, September 3). 36 Ways To Hire, Develop, and Retain Great People. Medium. https://barmstrong.medium.com/35-ways-coinbase-hires-develops-and-retains-great-people-cbfdf93b1c5c
+
+‌
+
+
+
+36 Ways To Hire, Develop, and Retain Great People
+Brian Armstrong
+Brian Armstrong
+
+·
+Follow
+
+8 min read
+·
+Feb 14, 2018
+4.2K
+
+
+16
+
+
+
+
+If I was limited to only having one area to focus on as CEO, it would be people. The root cause of every challenge or issue in a company, can be traced back to people (needing to hire someone for a new role or having the wrong person in a role).
+
+Focusing on people is arguably the highest leverage activity to spend time on as CEO, since great people build great products, which leads to great profits (in that order).
+
+Many of these ideas come from Laszlo Bock’s book, Work Rules (Laszlo was the former head of HR at Google) and the Netflix culture deck. I’d recommend reading both. Many of these we already do at Coinbase. Others I plan to try in the future.
+
+Lessons
+Don’t let managers make unilateral decisions
+For example, who to hire, promote, pay more, etc. This should be done by a group of peers or a committee (this is a form of Ray Dalio’s believability weighted decision making).
+Give people freedom
+Treat employees like founders, not machines to be monitored. Believe that people are fundamentally good. They want autonomy, creativity, and play, not a bunch of rules. This is the Montessori method applied to work.
+Default to open
+Assume that all information can be shared with the team, not that it needs to be hidden. This applies to codebases, metrics, meeting summaries, calendars, and Friday Q&As.
+Have an ambitious mission
+Meaningful work can be your best recruiting tool. People want to work on something that matters.
+Create internal competition
+Google has ChromeOS and Android. Facebook has Messenger and WhatsApp. It’s ok, and even desirable to have products with some overlap. Each pushes the other to be better with friendly competition.
+Create “Bureaucracy Busters”
+Survey employees regularly about the biggest areas of frustration internally (e.g. the expense approval threshold is annoyingly low!) and fix the top voted items.
+Culture isn’t static
+People say every year that “Burning man has changed with all these new people”. They’ve been saying that every year since the first burning man. Embrace culture change as a sign of progress. Keep your values consistent.
+Have a Chief Culture Officer
+While culture changes, you can still create a consistent culture (as it exists today) across the company. This is especially important as you open offices in multiple cities.
+Invest more in hiring than in training
+It’s easier to hire 90th percentile performers who start doing great work right away, than to train average performers into 90th percentile performers. Spend at least double what an average company does on hiring.
+Don’t rely on inbound applications
+Top performers in most industries aren’t looking for work. They are enjoying success where they are right now, or have a number of options available to them. Seek them out.
+When you find someone great, pursue them for years
+Develop an internal database of high quality people that you’d like to work with. Stay in touch and periodically invite them to events, hackathons, etc. Make them a part of the family so you’re top of mind when they finally are ready to make a move.
+Only hire people who are better than you
+Every person you hire should be better than you, for their particular skill set, or role. This is the hallmark of a great hiring manager.
+The CEO should review every hire
+Create a 1–2 page summary of every applicants scorecards, how they tested on the values, references made, etc. The final review from the CEO can provide a great check and balance on the hiring process.
+If you’re not a hell yes, you’re a no
+Make your hiring process conservative by design. It’s better to occasionally miss out on a great hire than to make a bad hire. Weight the decision making process to avoid false positives, not false negatives. For example, give veto rights to multiple people: the hiring manager, bar raiser, founder, etc.
+Referrals can be a high quality source of hires
+Ask people who they would love to work with again. You need to jog their minds and exhaustively go through the list of people they know (it’s too difficult to think off the top of your head). Ask more specific questions (who is the best finance person you’ve ever worked with) to narrow the search. Caveat: this may not be the best way to source diversity.
+Increasing the referral bonus does not increase the referral rate
+People refer friends because it’s a great place to work, not (primarily) for the referral bonus.
+Pay unfairly for top talent
+When you find truly exceptional people, go above and beyond to bring them in if needed. Great people almost always create more value than they cost in compensation. Human performance follows a power law distribution, not a normal distribution. Most organizations undervalue and under-reward their best people.
+Be more like an all-star team than a family
+All star teams pay to recruit the best players. Players who don’t contribute or work as a team get cut. In a family, once someone is in you commit to developing them no matter the time or cost. There are successful companies in both camps, but we prefer to follow the all star team model.
+Most people aren’t good interviewers
+People use judgements made in the first 10 seconds of an interview to form an assessment. These aren’t predictive of outcomes.
+Interview based on sample work and structured interview questions
+Create pre-defined interview questions that all candidates get asked, then score answers on a consistent rubric. e.g. Tell me about a time when you [outcome that is needed for this role].
+Find and develop your best interviewers
+Since the interview skillset is not equal, ask the best interviewers to make this a bigger part of their job.
+Have at least two interviewers assess each value or key competency
+Interviewers should be taking notes and filling out scorecards during every interview.
+Create a safe space for employees to speak up
+If they don’t feel comfortable discussing what’s really going on with their manager, they will begin to withdraw and project their stories on the organization. Make it safe for people to speak up and teach them how to go directly to people with issues. Encourage them to reveal instead of concealing blame and criticism.
+Encourage acting like an owner, rather than employee
+Ask everyone to take 100% responsibility for co-creating the outcomes they want in the organization, not taking more or less than their share.
+People Ops should be transparent on the process and statistics, but private on individual details
+In the absence of information, people make up their own stories. (Sally got promoted. It must be because Sally works with the CFO. John got fired. It must be because [fill in the blank]) People Ops should communicate in detail how decisions are made on hiring, promotions, comp, terminations, etc, but not reveal the details of any individual’s situation to respect their privacy.
+Constantly A/B test People Ops
+Could this step be eliminated from the hiring process without lowering quality? Should there be 4 or 5 ranking levels on performance reviews? These debates can be answered by split testing both options and seeing how it impacts the metrics you care about (see below for more on metrics).
+Remind people about bias, right before the performance review
+Teach people about common calibration errors and mental traps right before they write their reviews.
+Identify and transition low performers
+Regularly identify performers in the bottom 5–10%. Clearly communicate to them they are in this category. Help them transition to a new role in the company, or part ways, with compassion and pragmatism.
+Manager quality is the single best predictor of whether an employee will stay or leave
+Good managers also cause their reports to have higher performance scores.
+Remind/nudge people frequently about how to be good managers
+Here is a sample list every manager can put near their desk:
+a. Be a good coach
+b. Empower the team and don’t micromanage
+c. Express interest/concern for team members success and personal well being
+d. Be very productive/results oriented
+e. Be a good communicator — listen and share information
+f. Help the team with career development
+g. Have a clear vision/strategy for the team
+h. Have important skills that help advise the team
+Survey employees about how well managers are doing on the above
+And share this data with every manager so they know where they can improve.
+In training, spend more time on practice/repetition, and less on content
+The tough part is getting people to put what they know into practice.
+Have the best employees in each area run trainings
+Favor internal people over external people for trainings.
+Give experiential awards, not monetary awards
+Non cash rewards, whether they are experiences (dinner for two, a trip) or gifts (a new phone) trigger an emotional response. When people are surveyed they say they prefer cash awards, but they report higher levels of happiness when receiving experiential awards.
+Reward thoughtful failure
+Create a culture that isn’t afraid to try big new ideas by celebrating teams who try big and don’t quite make it.
+Hire only one-third “traditional HR” people in people ops
+Hire only one third people from traditional HR backgrounds. The second third can come from top tier consulting backgrounds (strategy consultants), and the last third can come from data/analytical/engineering backgrounds.
+People ops metrics to track
+And the questions they are trying to answer…
+
+Are we raising or lowering the hiring bar as we grow?
+Average new employee performance review scores
+Average candidate score on the values (per offer made)
+Average number of interviewers assessing each value per hire
+Acceptance rate
+What percent of people who apply get hired? Google’s is 0.25%. YCombinator is about 1.5%. Stanford and Harvard are about 5%. This is a rough metric of what bar is being held, and how strong your brand is.
+Are we meeting our hiring targets?
+It helps to assign a 1–5 point scale to each open hire, with a 5 point hire being worth roughly 5 times as much as a 1 point hire. This helps prioritize effort on higher value hires.
+
+% of total points closed vs target
+Number of points closed per headcount in recruiting
+Candidate experience
+What % of applicants who interviewed and were rejected would still recommend your company as a great place to work.
+Median days to hire
+How many days does it take, on average, between when a position is opened to when the position is filled.
+How engaged are employees?
+Overall engagement score (average of questions)
+We use CultureAmp for this and have found it to be very valuable.
+I would recommend Coinbase as a great place to work
+I find the performance review process helpful
+My manager cares about my development and helps make me successful
+My team deals with low performers appropriately
+Where is there too much bureaucracy in the organization? What would you change?
+How much efficiency is people ops taking out of the organization?
+Seek to minimize these metrics, while holding the same (or higher) quality bar in hiring, to make the existing team even more productive.
+
+Num hours invested per hire
+Num hours the average employee spends per week on hiring
+Num hours the average employee spends per quarter on performance reviews
+These are some of the lessons we’ve learned about hiring at Coinbase. We’re continually learning and improving our processes, so I’m sure these will evolve over time.
+
+What have you found that works best? Leave me a comment below.
+
+You can read more about open roles at Coinbase here.
+

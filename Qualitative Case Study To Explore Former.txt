@@ -1,0 +1,520 @@
+Silbernagel-Krohne, D. & Moser, T. (2023). Qualitative Case Study To Explore Former Employee Reasons For Resignation From Amazon - PDF Free Download. Retrieved November 27, 2023, from https://docplayer.net/235408801-Qualitative-case-study-to-explore-former-employee-reasons-for-resignation-from-amazon.html
+
+‌
+
+
+International Management Review Vol. 19 No. 2 2023
+ 32
+Qualitative Case Study To Explore Former Employee Reasons For
+Resignation From Amazon
+Dina Silbernagel-Krohne
+Tami Moser
+Southwestern Oklahoma State University, Weatherford, Oklahoma, USA
+tami.moser@swosu.edu
+[Abstract] This qualitative study, intended to explore statements of former Amazon employees,
+categorizes reasons for resignations, and provides answers to two questions. First, what are the
+three main reasons Amazon Fulfillment employees give for resigning? Second, what percentage
+of the total reasons do the top three represent and what minor themes exist within those three major
+themes? Social media comments from the subreddit r/Amazon FC and Glassdoor websites madeSilbernagel-Krohne, D., & Moser, T. (n.d.). Qualitative Case Study To Explore Former Employee Reasons For Resignation From Amazon. International Management Review, 19(2), 2023. http://www.americanscholarspress.us/journals/IMR/pdf/IMR-2-2023/imr_v19_n2_art03.pdf
+
+‌
+by previous employees who self-terminated in 2021 and 2022 provided secondary data that was
+organized into major and minor themes. The three major themes were management issues, difficult
+work, and schedule hardships with six minor themes: toxic culture, poor management, negative
+employee engagement, physically demanding, long hours, and shift schedule. Recommendations
+to address the major and minor themes include a comprehensive culture change, shift
+modifications, and updates to the internal transfer policy.
+[Keywords] Amazon, fulfillment center, employee retention, warehouse, voluntary resignation,
+turnover
+Introduction
+Since July 2021, macro forces in the economy have resulted in unemployment falling to .8 per
+open position in the United States (US BLS, 2022a). The competition to coax employees from
+their current organization results in companies offering higher-than-average hourly wages to entrylevel candidates and signing bonuses for salaried talent. Rampant inflation (Desilver, 2022) makes
+these monetary benefits highly attractive. Therefore, switching to a new employer, though
+inconvenient, is financially beneficial, with 51% of job changers seeing a real yearly increase;
+however, 47% of those not changing experienced a net improvement (Kochhar et al., 2022) in the
+2020 to 2021 period.
+Turnover drives cost upward and productivity downward (Gandhi & Robison, 2021),
+pushing against improvements in bottom-line figures required to achieve business goals.
+Depending on the position, replacing an employee costs half to double their yearly pay (Gandhi &
+Robison, 2021). Warehousing has seen a 1.11% year-over-year quit rate increase from July 2021
+to June 2022 and a month-over-month increase of 1.13% from June 2022 to July 2022 (US BLS,
+2022b). Historically, the warehouse component of the e-commerce process has a high turnover,
+which the Great Resignation (Gandhi & Robison, 2021) exacerbated. This phenomenon continues
+as a macro force pressing on the warehouse industry as younger generations of employees continue
+to influence work culture, changing it from a command-and-control structure to an equal
+partnership. As partners, they have little tolerance for employers they perceive as not meeting their
+needs and seek new, more satisfying partnerships by changing companies.
+The e-commerce industry grew to 14% of overall retail (US Census, 2022) in the second
+International Management Review Vol. 19 No. 2 2023
+ 33
+quarter of 2022, with Amazon enjoying 38% of the U.S. online market share (MarketLine, 2021).
+Amazon Fulfillment turnover is more than double (Brancaccio et al., 2021) that of other warehouse
+organizations, replacing 150% of its workforce yearly. This means that the largest e-commerce
+retailer in the country loses 3% of its headcount every week. A leaked internal memo revealed that
+Amazon could deplete available workers by 2024 (Sainato, 2022), and before stepping down as
+CEO, Bezos announced a culture change to position Amazon as the Earth's best employer
+(Brancaccio et al., 2021). The memo and culture change announcement indicate Amazon has
+retention concerns and is attempting to mitigate turnover. With Amazon at double the turnover rate
+of competitors (Sainato, 2022), Amazon's situation presents a unique case study for business
+consultants looking to define and categorize causes of voluntary separation.
+Purpose of the Study
+This qualitative study intends to explore statements of former Amazon employees,
+categorize reasons for resignations, and provide answers to two questions. First, what are the three
+main reasons Amazon Fulfillment employees give for resigning? Second, what percentage of the
+total reasons do the top three represent, and what minor themes exist within those three major
+themes? Answers to these questions add to the body of business academic knowledge around
+employee satisfaction, its impact on an organization's bottom line, and how managers and
+consultants can address the issue. Amazon and companies like it can use this study's trend analysis
+and recommendations to reduce turnover and, thus, reduce operational costs associated with hiring
+replacements.
+Literature Review
+Two theoretical frames support this study, Herzberg's two factors (Bhatt et al., 2022) and
+the concept of employee-centric organizations (Ramchandani & Singh, 2020). When Herzberg
+initially published his work in the 1950s, it was a cultural norm to work at one or maybe two jobs
+before retirement. As time passed, each successive generation increased the number of different
+jobs throughout their careers. Currently, it is uncommon to spend even ten years at the same
+company, as employees now see themselves as equal partners in the employer/employee
+relationship and find other employment if their current company does not meet their needs.
+The employee-centric concept describes the new normal of cycling between candidate and
+employee roles (Ramchandani & Singh, 2020) throughout careers and within organizations.
+Employee sentiment begins with initial interactions when candidates apply, evaluate an offer, and
+decide if it is right for them. Then, as employees, they join the company and proceed to learn,
+contribute, and grow. This model (Ramchandani & Singh, 2020) represents these employee
+interactions with the employer as dynamic and cyclical.
+Figure 1 identifies interaction times that drive sentiment as the employee revisits and
+reevaluates employer value. Positive or negative first impressions (Koziol & Koziol, 2020)
+become reinforced or changed by ongoing interactions and continue throughout the employee's
+life cycle at the company in an infinite loop (Ramchandani & Singh, 2020). If employees become
+too dissatisfied, they attempt to change their position within the company or leave entirely, thereby
+becoming candidates again and starting the cycle over. In this case study, the ex-employees’
+reasons for leaving (Koziol & Koziol, 2020) consist of stories involving one or more interactions
+along the infinity loop.
+International Management Review Vol. 19 No. 2 2023
+34
+Figure 1
+Employee Journey Infinity Loop
+Reprinted from "Employee Centric Organizations," by Ramchandani, S., & Singh, A., Delhi Business
+Review,21(1), pg. 101.
+The two factors in Herzberg's theory, hygiene and motivation, describe low and high
+satisfiers or dissatisfiers (Herzberg et al., 1993) depending on whether the employer did or did not
+meet those needs. High elements that motivate employees are recognition, advancement,
+development opportunities, interesting work, and trust in decision-making (Bhatt et al., 2022).
+Low elements are hygiene factors in that they are the minimum expectations workers have of their
+employers: company policies, pay, working conditions, and company culture – toxic/cordial,
+benefits, and job security (Bhatt et al., 2022). High factors will not motivate employees unless the
+low (hygiene) factors are met first (Herzberg et al., 1993). Herzberg's two factors are evident in
+the employee-centric concept as candidates weigh hygiene factors in deciding to join or continue
+with the organization. Motivation factors determine if they will look inside or outside the company
+when returning to the candidate cycle.
+Review of Motivation Literature
+Herzberg published The Motivation to Work in 1953 and reprised the concept with a publication
+of the same name in 1993. While the concept of employer responsibility for employee motivation
+and retention was innovative in the 1950s, it built upon Maslow's hierarchy of needs from 1943. A
+Theory of Human Motivation (Maslow, 1943) explains that basic needs like physical safety and
+physiological imperatives require satisfaction before higher needs emerge (Maslow, 1943).
+Maslow asserted that people "lacking food, safety, love, and esteem would most probably hunger
+for food more strongly than anything else" (Maslow, 1943, p. 373).
+Herzberg's 1993 publication expanded the high and low factor model to include two
+relationship levels between employees and leadership. Level one relationships had neither party
+trusting the other, whereas level two relationships were mutually respectful and productive. The
+affirmative employer/employee relationship trend continued with the positive psychology
+movement of the 2000s that included work as a component of mental health because it is a source
+of suffering or happiness (Seligman & Csikszentmihalyi, 2000). Positive Psychology: An
+Introduction (Seligman & Csikszentmihalyi, 2000) reviewed fifteen articles about the topic and
+concluded that focusing solely on fixing problems was not enough to create environments in which
+people flourish (Seligman & Csikszentmihalyi, 2000). Instead, the goal was to correct egregious
+issues and then, with those resolved, move on to higher level fulfillment, which is congruous with
+International Management Review Vol. 19 No. 2 2023
+ 35
+both the Two Factor theory (Herzberg et al., 1993) and Maslow's work (Maslow, 1943).
+Therefore, it is no surprise that the Motivation Hygiene Theory gained traction again as the
+positive psychology movement emerged. Researchers reviewed scholarly writings on motivation,
+positive psychology, and the Two Factor theory, concluding that Herzberg's theory proved positive
+psychology is an aspect of human resource strategies (Sachau, 2007) by clarifying organizational
+satisfiers. Other authors questioned if the Two Factor theory held its weight against the business
+evolution away from Taylor-style functions (Bassett-Jones & Lloyd, 2005) by surveying 3,200
+United Kingdom employees in government, utilities, services, retail, manufacturing, financial
+services, and law enforcement. The Bassett-Jones & Lloyd (2005) survey found the Two Factor
+theory useful, especially in translating employees' tacit knowledge into explicit process
+improvements (Bassett-Jones & Lloyd, 2005).
+After the recessions of the 2000s, employers faced greater competition for talent as workers
+had more opportunities to leave with lower risk. As a result, the next evolution of the
+employee/employer relationship happened with the voice of the employee. A random sampling of
+346 middle eastern workers in Jordan resulted in 300 respondents (Alfayad & Mohd Arif, 2017)
+and found employees who felt heard by employers had higher satisfaction. The authors specifically
+acknowledged Herzberg's theory in stating employee voice as a motivating factor, demonstrating
+the Two Factor theory was applicable into the 20-teens (Alfayad & Mohd Arif, 2017).
+Motivation and satisfaction are even more important in the post-COVID business world as
+employers face record-low unemployment and a workforce that values mental health and balance
+more than ever (Bhatt et al., 2022). The employee-centric infinity model (Ramchandani & Singh,
+2020) encompasses this uniquely 2020s concept, yet still aligns with Herzberg's theory because it
+is two factor at its basis. Employee-centrism aids in defining constructs from Herzberg's theory to
+confirm the validity of the Motivation Hygiene Theory almost 70 years later to guide research
+about employee turnover.
+Methods
+This study uses secondary data from previous employees who self-terminated in 2021 and 2022 to
+code reasons for attrition. Structure for analysis was provided by identifying open, axial, and
+selective categories to organize reasons from ex-employee statements into major and minor themes.
+Inclusion criteria limit analysis to the United States and exclude Amazon business lines other than
+Fulfillment centers. Social media comments indicating resignation reasons found on the subreddit
+r/Amazon FC and Glassdoor (Stamolampros et al., 2019) websites were used for manual sentiment
+analysis (Young & Gavade, 2018).
+First, open coding (Williams & Moser, 2019) is applied to the descriptive phrases on
+Glassdoor, and r/Amazon FC identifies general themes. Then, axial analysis (Williams & Moser,
+2019) classifies these generalities into specific codes. Next, the researcher identifies overlapping
+concepts using selective coding, reducing the number of codes to no more than seven inferential
+themes (Williams & Moser, 2019). Finally, inferential themes with the greatest number of
+responses became the major themes of this study, representing the top three reasons employees
+leave Amazon warehouses.
+Limitations of the Study
+The nature of secondary data means responses are not specifically answering questions (Kumara,
+2022) about resignations and may lack detailed information. Limitations to the study include the
+inability to ask follow-up questions as a researcher might when interviewing a human subject.
+International Management Review Vol. 19 No. 2 2023
+ 36
+Several axial codes in the management issue major theme could be consolidated if there were more
+clarity in stated reasons regarding what the ex-employees meant by poor management. Lacking
+granular information, poor management became a catchall for remarks indicating manager-related
+resignation reasons like "learn to really manage" and "need better managers." Without specifics, it
+is challenging for an organization to create training or strategies to develop managers in ways that
+would decrease employee turnover. One final limitation is the lack of control over how the data is
+collected (Kumara, 2022) and stored online. Whether a comment stays online is at the discretion
+of Glassdoor social media employees and the subreddit moderator.
+Introduction to Results
+The comments compiled from Glassdoor.com and the subreddit r/Amazon FC on Reddit.com
+spanned the rolling year December 2021 to December 2022. The sum of individuals commenting
+was 220, with 110 from Reddit and 110 from Glassdoor; however, some individuals indicated more
+than one reason for resigning, leading to 347 reasons in total. As shown in Table 1, 147 reasons
+originated on Reddit and 200 on Glassdoor.
+Table 1
+Individuals and Resignation Reasons
+Source Individuals Commenting Reasons
+ Comments Percentage Reasons Percentage
+Reddit 110 50% 147 42%
+Glassdoor 110 50% 200 58%
+Totals 220 100% 347 100%
+Coding
+The analysis categorized reasons into open, axial, and selective coding (Williams & Moser, 2019)
+to define major and secondary themes. Each selective coding category had several axial
+subcategories with the most significant representing minor themes. Selective coding revealed three
+major themes previous Amazon employees gave for leaving that encompassed 69% of all reasons:
+management issues, difficult work, and the schedule caused hardship. Management issues
+accounted for 28% of the reasons, difficult work was 23%, and schedule hardship 18%, as
+indicated in Table 2.
+International Management Review Vol. 19 No. 2 2023
+ 37
+Table 2
+Selective Coding Distribution
+*Top 3 represent 69% of all reasons
+Thematic Findings
+Despite analysis identifying thirty-eight unique axial codes, more than one-third of the minor
+themes came from only six codes. Similarly, selective coding comprised eight codes, yet almost
+three-quarters of the data resided in three codes that became major themes. The top three selective
+codes, representing the major themes, encompass 69% of reasons ex-employees gave for resigning,
+while the six minor themes combined were 36% of reasons. Major and minor theme percentages
+by employee level in Table 3 identify concerns that caused more resignations by hourly versus
+salaried positions. Hourly associates are supervised by hourly process assistants with their salaried
+direct managers referred to as area managers. The area managers’ report to the next level up,
+operations managers, who are senior operations managers supervise. Senior operations managers
+are not represented in the data because there were no comments on Reddit or Glassdoor from this
+level of employee.
+Table 3
+Reason Percent by Theme and Employee Level
+ Percent of Major Theme Percent of All
+Reasons
+Major Themes
+ Minor Themes
+Amazon
+Associate
+(AA)
+Process
+Assistant
+(PA)
+Area
+Manager
+(AM)
+Operations
+Manager
+(OM)
+Management Issues 83% 4% 10% 2% 28%
+Toxic Culture 11% 0% 2% 1% 4%
+Poor Management 14% 0% 0% 0% 4%
+Negative Employee
+Engagement
+ 10% 1% 1% 0% 3%
+Difficult Work 90% 1% 7% 1% 23%
+Physically Demanding 47% 1% 0% 0% 11%
+Schedule Causes Hardships 75% 5% 19% 1% 18%
+Long Hours 34% 0% 9% 0% 8%
+Shift Times/ Overnights/
+Inflexible Hours
+ 22% 3% 8% 0% 6%
+Selective
+Code
+Number of
+Reasons
+Percent of
+Total Reasons
+Management Issues * 96 28%
+Difficult Work * 81 23%
+Schedule Causes Hardship * 64 18%
+Pay 33 10%
+H.R. Issue 27 8%
+Disliked the Work 16 5%
+Location 15 4%
+Nonspecific 15 4%
+Totals 347 100%
+International Management Review Vol. 19 No. 2 2023
+ 38
+Management Issues
+The first major theme was management issues, with 28% of the overall reasons coded.
+Management issues had sixteen axial codes associated with them compared to the two other major
+themes, difficult work and schedule causes hardship at seven and five axial codes, respectively.
+Within this major theme, three minor themes were toxic culture, poor management, and negative
+employee engagement, representing 11% of the total reasons. These minor themes were a
+considerable weight within the major theme, since they were thirty-nine out of ninety-six
+management issue reasons, or 41% of the management issues' axial code reasons. Table 3 shows
+most management issue respondents were associates (83% in the major category) followed by area
+managers with 10%.
+Toxic Culture
+The toxic culture minor theme accounts for 14% of the overall management issue reasons for
+resignation with all employee levels commenting on the culture except for process assistants.
+Breaking this 14% down into employee levels, associates had the most to say, with 11% of toxic
+culture comments, followed by area managers at 2% and operations managers at 1%. Several
+different Amazon Associates (AAs) called it out with specifics like "purposefully creating a toxic
+environment to ensure high turnover rates," "finally quit the toxic building," and "toxic culture and
+people." Area managers (AMs) and operations Managers (OMs) did not use the phrase toxic
+culture but provided insights like "too large to see circumstances that do not align with its tenets"
+and "poor ethics."
+Poor Management
+The second minor theme is poor management, with 14% of this major theme's reasons. Many
+reasons were vague, with various commenters using phrasing like "learn to really manage" and
+"advice to management: do better." However, some commenters gave specifics about feeling
+distanced from leadership, saying "never once have I seen my manager," "hire professional adults
+not fresh out of college," and "high turnover rate (of managers)…creates barriers between
+employees and employer." Only AAs commented on this minor theme, with zero process assistants
+(PAs), AMs, or OMs indicating poor management as an issue for leaving, possibly because the
+other levels are leadership positions and, as such, generally lumped together as management by
+frontline employees.
+Negative Employee Engagement
+The last minor theme, negative employee engagement, is 12% of the management issue major
+theme where AAs, PAs, and AMs all gave this reason. AAs contributed 10% to this theme, and
+PAs/AMs were equally divided among the remaining 2%, stating they received negative treatment
+or comments from higher-ups. Associates indicated their managers "made comments that make
+you not want to be there" and felt "managers are not kind." PAs and AMs had similar thoughts
+because higher-level leaders "makes you feel less than" and provided advice, such as "empathy is
+the key to motivation."
+Difficult Work
+The second major theme was difficult work, shown in Table 3, with 23% of overall reasons in the
+data set. AAs again provided most reasons at 90% with AMs at 7% and then PAs/OMs at 1% each.
+This category spanned reasons from physical to mental difficulties, including stress or workload.
+Since AAs provided most reasons, the physically demanding aspect of the job was the primary
+International Management Review Vol. 19 No. 2 2023
+ 39
+minor theme within the difficult work category at 47% of the major theme. Amazon associates and
+PAs found Amazon physically demanding, while AMs and OMs thought it was stressful and
+confusing and had a heavy workload.
+Physically Demanding
+Unsurprisingly, warehouse work is physically demanding, but it is a significant minor theme for
+an organization with double the turnover of industry standards. Table 3 notes that 11% of total
+reasons mentioned this concern, as several ex-employees explained "heavy boxes and constant
+pushing and pulling motions," "it breaks down your body," and "trying to stuff boxes that were
+literally larger than me." It is worth noting that several different comments contained reasons that
+combined the physicality of the job with a non-physical work stressor like "caused me panic
+attacks" and "they time everything."
+Pay Affected Perception
+Pay was not one of the top three major themes, but its impact on employee perception of physical
+demands during their tenure at Amazon is worth noting. Many commenters combined pay with
+physical work reasons in instances of "breaking backs for paychecks," "you will work hard…they
+could pay more," and leaving Amazon for a job "making a little bit more without the hard labor."
+In this minor theme, former employees also noted the imbalance of pay versus long hours driving
+employee dissatisfaction.
+Schedule Causes Hardship
+All employment levels in Table 3 stated the schedule as a cause for leaving Amazon, possibly due
+to typical Amazon schedules of ten hours, four days a week. Furthermore, the schedule increases
+to eleven hours per shift during overtime, sometimes with an additional fifth day. Two of the five
+axial codes emerged as minor themes: long hours and shift times/ overnights/ inflexible hours.
+Together these minor themes represent 14% of overall reasons from former employees. Within the
+schedule major theme, 56% of AA reasons were these minor themes as reasons for leaving, while
+17% came from AMs, and 3% from PAs. The third major theme was schedule causes hardship,
+encompassing 18% of all reasons for resignation.
+Long Hours
+Associates comprised 34% of the long hours minor theme and area managers 9%, while PAs and
+OMs did not state long hours as a problem. The ten hours shifts (11 on overtime) were seen by
+different associates as issues because "shifts felt they were never going to end," and the work
+"drained me" because it was "too many hours to work in one day." Various AMs on salary felt they
+"put in more hours than what you get paid for" due to "having to work after working hours" and
+"12-13-hour days even though your offer letter will say 10 hours." Both hourly and salaried
+employees were unsatisfied with breaks, with AA reasons like "long hours, short break" and AMs
+stating, "long hours no/short breaks."
+Shift Times/Overnights/Inflexible Hours
+Table 3 shows that AA reasons totaled 22% of this minor theme, with 3% from PAs and 8% from
+AMs, meaning both hourly (AAs / PAs) and salaried (AMs) staff were both dissatisfied enough
+with their schedules to leave the company. Former Amazonians found their assigned schedule did
+not fit their work/life balance, overnights created family issues, and the inflexibility of schedules
+International Management Review Vol. 19 No. 2 2023
+ 40
+limited opportunities to improve balance. One AM "wasn't a fan of overnights," while another said,
+"your schedule really isn't your schedule." Several hourlies indicated they "did not like night shift,"
+while others resigned "to be rehired at Amazon for the job schedule they denied me a transfer to"
+and "reapplied and got the job I tried transferring to." The internal inflexibility to transfer pushed
+some associates to risk leaving so they could apply for openings on preferred shifts and locations.
+Significance of Findings
+This qualitative study intended to explore statements of former employees and categorize reasons
+for resignations from Amazon. While the study fulfilled its purpose, the major and minor themes
+provided insights about its significance in three areas. First, for Amazon specifically, there is a
+compilation of causes for warehouse turnover the organization may utilize in strategic
+improvements to reduce resignations. Second, the study provides information on the warehousing
+industry's turnover, considering warehousing has significant turnover overall. Third, it contributes
+to the pool of academic knowledge for one of the costliest expenses in any business.
+Interestingly, the major themes parallel other research on employee resignation. The study showed
+pay was not one of the top three reasons, but rather employees felt management was inadequate,
+the work was too demanding, and the schedule was incompatible with their lives. These findings
+support Gallup surveys (Gandhi & Robison, 2021) wherein disengagement was the primary factor
+for turnover rather than pay. At the same time, a Pew study found income as a primary turnover
+reason (Parker & Horowitz, 2022), unlike the Amazon data in this study. Still, other reasons found
+by Pew Research do overlap.
+Several concerns from the Pew study were feeling disrespected, childcare issues, and
+working too many hours, which align with this study's major themes of management issues and
+schedule hardship. However, one major theme of this study seems specific to Amazon as a primary
+reason for changing jobs: difficult work. This major theme was 23% of all reasons, with the minor
+theme of physicality found in 11% of all reasons for resigning (Table 3). Perhaps Amazon
+warehouses are more physically demanding than others, leading to high turnover. Compared to the
+industry's 49% (US BLS, 2021), Amazon's turnover was more than double (Kantor et al., 2021),
+and company spokespeople did not deny the statistic when responding to media (Segal, 2022).
+Another possibility is Amazon's ten-to-eleven-hour shifts might be too lengthy for the physical
+nature of the work versus an eight-hour shift.
+Recommendations for Application and Research
+Address Management Issues with Culture Change
+The three minor themes within the management issue major theme, toxic culture, poor
+management, and negative engagement, are symptoms of poor culture because they exist as level
+one (Herzberg et al., 1993) relationships in Herzberg's model. Level one relationships have one
+party in charge and the other subordinate, with neither party trusting the other. Moving culture to
+level two (Herzberg et al., 1993) establishes a professionally distant relationship with trust between
+the parties to perform duties fully without inflicting harm. Therefore, the recommendation is to
+change Amazon's warehouse culture from level one to level two.
+Considering Amazon created the culture, a management consultant or agency provides
+fresh eyes and new perspectives. Installing an Amazon leader and team in each warehouse
+reporting directly to a national leader instead of facility leadership is advisable to ensure
+consultants receive information required to assess each warehouse's culture and tailor
+recommendations accordingly. In addition to specific improvements suggested by the consultation
+International Management Review Vol. 19 No. 2 2023
+ 41
+team, Amazon should tie cultural enhancements to performance and compensation (Schein &
+Schein, 2017) in performance appraisals (Hofstetter & Harpaz, 2015).
+Modify Number of Hours Worked per Shift
+Amazon employees may perceive the work as more physically demanding than other warehouse
+positions due to the four-day, ten-hour shift schedule. Adjusting to eight-hour shifts and five-day
+weeks is one option for addressing the major theme of difficult work and the minor theme of
+physically demanding activities. The shorter shift would provide more recovery time before
+returning to work. However, this may move resignation reasons away from difficult work to the
+five-day schedule causing hardship if the additional day creates work/life challenges for the staff.
+Focus groups, surveys, and town hall meetings to gather interest and understand what most
+workers prefer can offer insight into the feasibility of shorter shifts but more days. An alternative
+recommendation is to increase break times for recovery during the shift. This option means less
+productive time each shift, but a trial in select warehouses could provide data on cost/benefit of
+less volume from the increased break times versus improved productivity and cost savings from
+reduced turnover.
+Restructure Overnight Shifts and Transfer Policies
+This recommendation addresses the schedule hardships in the third major theme. Several
+commenters mentioned transfer request denials as the reason they resigned. Then they applied as
+external applicants to open positions on their preferred shift and were often rehired. It appears
+Amazon prioritizes external hires over internal transfers for preferred shifts. If this is true, changing
+the policy to prioritize internal transfers would reduce turnover and begin to address the reported
+eight billion dollars (Segal, 2022) spent annually on replacing staff.
+Also, this category had a significant number of reasons from AMs and AAs since both
+disliked the overnight shifts and long hours. Addressing long hours for hourly AAs was already
+discussed in the second recommendation. As for salaried AMs, the recommendation is to assess
+the workload requiring twelve to thirteen hours for ways to eliminate or consolidate tasks and
+reduce the shift by one to two hours. In addition, a data-based determination is required to decide
+if the benefits of running night shifts outweigh the costs associated with replacing staff that leave
+due to overnight shifts. If day shifts do not have enough capacity to ship required volumes and
+eliminating night shifts is not feasible, the recommendation is to reduce the number of night shifts
+from seven days a week to four or five. This option requires less headcount per week staffed on
+overnights while moving more headcount to day shifts. Although there would likely still be higher
+turnover on nights versus days, there would be less overall turnover.
+Conclusion
+Currently, the US is in an era of low unemployment, quiet quitting, and rage applying as worker
+sentiment continues its evolution away from acquiescence to command and control organizational
+structures. Therefore, understanding the root causes of employee dissatisfaction can help
+employers progress toward employee-focused models by developing tailored retention programs.
+Amazon has acknowledged the need to adapt with an updated mission statement indicating its
+intent to become Earth's most employee-centric company. Data-based recommendations, like those
+in this case study, may enable Amazon's retention strategies to achieve this goal without trial-anderror cycles draining resources.
+
+International Management Review Vol. 19 No. 2 2023
+ 42
+References
+Alfayad, Z., & Mohd Arif, L. S. (2017). Employee voice and job satisfaction: An application of
+Herzberg's two-factor theory. International Review of Management and Marketing, 7(1).
+Bassett-Jones, N., & Lloyd, G. C. (2005). Does Herzberg's motivation theory have staying power?
+Journal of Management Development, 24(10), 929–943.
+https://doi.org/10.1108/02621710510627064
+Bhatt, N., Chitranshi, J., & Mehta, M. (2022). Testing Herzberg's two factor theory on millennials.
+Cardiometry(22), 231–236.
+Brancaccio, D., Garretson, M., Conlon, R., & Shin, D. (2021, June 18). Is Amazon's high turnover a huge
+red flag or the secret to its dominance? NPR. Marketplace.
+https://www.marketplace.org/2021/06/18/amazon-workforce-turnover-dominance-investigation/
+Desilver, D. (2022). In the U.S. and around the world, inflation is high and getting higher. Pew Research
+Center. https://www.pewresearch.org/fact-tank/2022/06/15/in-the-u-s-and-around-the-worldinflation-is-high-and-getting-higher/
+Gandhi, V., & Robison, J. (2021). The great resignation is really the great discontent. Gallup.
+https://www.gallup.com/workplace/351545/great-resignation-really-great-discontent.aspx
+Herzberg, F., Mausner, B., & Snyderman, B. B. (1993). The motivation to work. Routledge.
+Hofstetter, H., & Harpaz, I. (2015). Declared versus actual organizational culture as indicated by an
+organization's performance appraisal. The International Journal of Human Resource
+Management, 26(4), 445–466. https://doi.org/10.1080/09585192.2011.561217
+Kantor, J., Weise, K., Ashford, G., & Villegas, A. (2021). The Amazon that customers don't see. New
+York Times, 170(59090), A1-A22.
+Kochhar, R., Parker, K., & Igielnick, R. (2022). Majority of U.S. workers changing jobs are seeing real
+wage gains. Pew Research Center. https://www.pewresearch.org/socialtrends/2022/07/28/majority-of-u-s-workers-changing-jobs-are-seeing-real-wage-gains/
+Koziol, L., & Koziol, M. (2020). The concept of the trichotomy of motivating factors in the workplace.
+Central European Journal of Operations Research, 28(2), 707–715.
+https://doi.org/10.1007/s10100-019-00658-5
+Kumara, A. S. (2022). Researching with secondary data: A brief overview of possibilities and limitations
+from the viewpoint of social research. Federal Reserve Bank of St Louis. IDEAS Working Paper
+Series from RePEc.
+MarketLine (2021). MarketLine industry profile: Online retail in United States. Online Retail Industry
+Profile: United States, 1–72.
+Maslow, A. H. (1943). A theory of human motivation. Psychological Review, 50(4), 370–396.
+https://doi.org/10.1037/h0054346
+Parker, K., & Horowitz, J. (2022). Majority of workers who quit a job in 2021 cite low pay, no
+opportunities for advancement, feeling disrespected. Pew Research Center.
+https://www.pewresearch.org/fact-tank/2022/03/09/majority-of-workers-who-quit-a-job-in-2021-
+cite-low-pay-no-opportunities-for-advancement-feeling-disrespected/
+Ramchandani, S., & Singh, A. K. (2020). Employee-centric organizations: A conceptual framework with
+drivers and consequences. Delhi Business Review, 21(1), 99–114.
+https://doi.org/10.51768/dbr.v21i1.211202017
+Sachau, D. A. (2007). Resurrecting the motivation-hygiene theory: Herzberg and the positive psychology
+movement. Human Resource Development Review, 6(4), 377–393.
+Sainato, M. (2022). Amazon could run out of workers in US in two years, internal memo suggests. The
+Guardian. https://www.theguardian.com/technology/2022/jun/22/amazon-workers-shortageleaked-memo-warehouse
+Schein, E., & Schein, P. (2017). The corporate culture survival guide (Third edition). John Wiley & Sons.
+Segal, E. (2022). Amazon responds to release of leaked documents showing 150% annual employee
+turnover. Forbes. https://www.forbes.com/sites/edwardsegal/2022/10/24/amazon-responds-torelease-of-leaked-documents-showing-150-annual-employee-turnover/?sh=b9a827f1d0ba
+International Management Review Vol. 19 No. 2 2023
+ 43
+Seligman, M. E. P., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. The American
+Psychologist, 55(1), 5–14. https://doi.org/10.1037/0003-066X.55.1.5
+Stamolampros, P., Korfiatis, N., Chalvatzis, K., & Buhalis, D. (2019). Job satisfaction and employee
+turnover determinants in high contact services: Insights from employees'online reviews. Tourism
+Management, 75. https://doi.org/10.1016/j.tourman.2019.04.030
+US BLS. (2021). Economic New Release: Annual total separations rates by industry and region, not
+seasonally adjusted. US Bureau of Labor Statistics.
+https://www.bls.gov/news.release/jolts.t16.htm
+US BLS. (2022a). Graphs for economic news releases. US Bureau of Labor Statistics.
+https://www.bls.gov/charts/job-openings-and-labor-turnover/unemp-per-job-opening.htm
+US BLS. (2022b). Quit levels and rates by industry and region. US Bureau of Labor Statistics.
+https://www.bls.gov/news.release/jolts.t10.htm
+US Census. (2022). Quarterly retail e-commerce sales 2nd quarter 2022. US Census.
+https://www.census.gov
+Williams, M., & Moser, T. (2019). The art of coding and thematic exploration in qualitative research.
+International Management Review, 15(1), 45-55,71-72.
+Young, L. M., and Gavade, S. R. (2018). Translating emotional insights from hospitality employees'
+comments: Using sentiment analysis to understand job satisfaction. International Hospitality
+Review, 32(1), 75–92. https://doi.org/10.1108/IHR-08-2018-0007
+ 
+
+Silbernagel-Krohne, D., & Moser, T. (n.d.). Qualitative Case Study To Explore Former Employee Reasons For Resignation From Amazon. International Management Review, 19(2), 2023. http://www.americanscholarspress.us/journals/IMR/pdf/IMR-2-2023/imr_v19_n2_art03.pdf
+
+‌

@@ -1,0 +1,297 @@
+Conners, M. (2020). Employee Engagement Literature Review. https://shareok.org/bitstream/handle/11244/329417/oksd_conners_HT_2020.pdf?sequence=1
+
+
+
+
+Employee Engagement Literature Review
+Oklahoma State University
+Spears School of Business Honors Thesis
+BHON-4990-31542
+Author: Maggie Conners
+First Reader: Lindsey Greco, Ph.D. | Department of Management
+Second Reader: Evan Davis, Ph.D. | Assistant Dean
+Conners, 1
+Abstract
+The aim of this thesis is to utilize employee engagement research to conduct a literature
+review of employee engagement, and create an engagement plan for managers at BOK Financial.
+Creating the engagement plan will help managers at BOK Financial better engage their
+employees, while becoming more engaged themselves. Researching engagement prior to creating
+the engagement plan helped identify potential resources and modules to utilize in the plan. This
+review provided clarity on the meaning of employee engagement, measuring employee
+engagement, and how managers can apply this research to their employees. This initial literature
+review will help articulate the contrasting definitions, models, antecedents, and outcomes of
+employee engagement. Lastly, I follow up the research and training plan with a brief summary of
+the project details and my future with employee engagement.
+Defining Engagement
+Within my research, I discovered various similar definitions for engagement. The first
+was William Kahn’s 1990 definition: “the harnessing of an employee’s full self in terms of
+physical, cognitive, and emotional energies to work role performances.” This definition was
+referenced by (Bailey, Madden, Alfes, & Fletcher, 2017; Kinicki & Fugate, 2018; Rich, Lepine,
+& Crawford., 2010; Saks, 2006) and breaks down into the three energy components: cognitive,
+physical, and affective (emotional).
+The cognitive energy component can be allocated into either professional or personal
+areas of life; on the professional side, job involvement provides an excellent example. According
+to Bruce Rich, “job involvement refers to the degree to which employees relate to their jobs as
+comprising their lives in total.” An engaged employee will relate strongly to the job, and often
+think about work outside of the office. The next component is the affective energy component,
+Conners, 2
+which looks at the emotional reactions to our desire to fulfill needs and values. In a work-related
+sense, we can take this to mean job satisfaction. Angelo Kinicki and Mel Fugate define job
+satisfaction as, “an affective or emotional response towards various facets of your job” (Kinicki
+& Fugate 2018), which boils down to how emotionally connected the employee feels to his or
+her job; if an employee is very emotionally tied to the job, he or she will be more engaged. The
+last component is the physical energy component. This is how much effort an employee exerts
+into his or her job, often measured by intrinsic motivation. The definition of intrinsic motivation
+is, “the desire to exert effort on a task in the absence of external constraints or contingencies”
+(Rich et al., 2010). When an employee puts a lot of effort into the work without prompting, that
+employee is more engaged.
+When taken alone, these components mean little. By putting all three components
+together, we easily see that if an employee is cognitively invested with the job, is happy to be
+working there, and puts lots of energy into his or her work, then that employee would be very
+engaged. The engagement comes from a common investment of the various energies and
+maintaining it over time. When an employee is engaged, he or she will be fully invested in the
+work, which will lead him or her to better performance and success. Overall, Kahn sees these
+three components as the, “hands, head, and heart into active full work performance” (Rich et al.,
+2010).
+The Oldenburg Burnout Inventory explains the next version of employee engagement,
+created by Wilmar Schaufeli, as “a positive, fulfilling, work-related state of mind that is
+characterized by vigor, dedication, and absorption” (Bakker & Demerouti, 2008). This definition
+was referenced by (Bakker & Demerouti, 2008; González-Romá, Schaufeli, Bakker, & Lloret,
+2006; Crawford, Lepine, & Rich, 2010; Bailey et al., 2017, Bakker, Albrecht, & Leiter, 2011)
+Conners, 3
+This definition, like the Kahn definition, is also broken up into three components: vigor,
+dedication, and absorption. According to Vicente Gozalez-Roma, the vigor component means,
+“high levels of energy and mental resilience while working or willingness to invest effort in
+work.” The dedication component means “a sense of significance, enthusiasm, inspiration, pride
+and challenge.” Lastly, the absorption component means, “fully concentrating on and being
+deeply engross in one’s work.” However, vigor and dedication are referenced most often
+(Gonzalez-Roma et al., 2006).
+Often, this definition is used to explain the opposite of employee engagement—
+burnout—meaning, “a reaction to a chronic occupational stress characterized by emotional
+exhaustion, cynicism, and lack of professional efficacy.” In this sense, vigor is the opposite of
+exhaustion and dedication is the opposite of cynicism, drawing the conclusion that burnout and
+engagement are opposites.
+Arnold Bakker and Evangelia Demerouti provide a great explanation to the difference
+between engagement and burnout. A burned out employee and an engaged employee may both
+feel tired at the end of a long work day, but the engaged employee will feel tired with a sense of
+completion, success, and reward, whereas the burned out employee will feel tired with a sense of
+defeat, frustration, and emptiness (Bakker & Demerouti, 2008).
+Bailey outlines other definitions that scholars in the field have created. For example,
+some think of engagement as a management practice, meaning that employers are viewing
+engagement as, “doing engagement” vs “being engaged.” This changes the paradigm from
+employees engaging themselves to employers engaging their employees. The other definition
+thinks about engagement as a reciprocity agreement (Bailey et al., 2017). This paper will discuss
+the idea more, but some researchers believe that engagement stems partially due to a feeling of
+Conners, 4
+obligation towards employers. If the employer provides good opportunities and cares about the
+employee, then that employee will attempt to repay their manager by investing more fully in the
+work.
+Although the definitions by Kahn and Schaufeli present engagement in slightly different
+lights, they are very similar. First, both definitions focus on how perceived work conditions (job
+resources and demands, and organizational support) predict employee engagement level. Second,
+when compared directly, each of the three components have a synonym in the other definition:
+the physical, affective, and cognitive components from Kahn’s definition match respectively
+with vigor, dedication, and absorption from Schaufeli’s definition. A vigorous employee will
+show high mental resilience and work with a lot of energy and effort, which is very physical. A
+dedicated employee feels a sense of significance about the job, and the affective component is all
+about fulfilling emotional needs at work. An absorbed employee is fully concentrating on the
+work and thinks very deeply about it, which shows cognitive energy (Bailey et al., 2017). At the
+end of the day, engagement focuses around creating a positive work experience for employees,
+so they can give their biggest and best effort towards the employer.
+Models
+The most common model explaining employee engagement is the Job DemandsResources model. This model explains that job resources feed an employee’s engagement,
+whereas job demands detract from an employee’s engagement. Formally defined, job resources
+are, “aspects of the job that are functional in achieving work goals, stimulate personal growth
+and development, and reduce job demands and their associated physiological costs” (Crawford et
+al., 2010). These are things like social support, performance feedback, skill variety, autonomy,
+and learning opportunities. Furthermore, job resources, “fulfill basic human needs, such as the
+Conners, 5
+needs for autonomy, relatedness and competence” (Bakker & Demerouti, 2008). Yet, not only
+are job resources important for engagement, but also personal resources. Bakker and Demerouti
+define personal resources as, “positive self-evaluations that are linked to resiliency and refer to
+individuals’ sense of their ability to control and impact upon their environment successfully.” In
+many studies, it was found that the more personal resources someone had, the more engaged he
+or she was at work. They believe that having this high self-regard creates a positive selfevaluation within employees, so employees feel more confident in their ability to control and
+impact their environment, and can create goals that better align with their personality (Bakker &
+Demerouti, 2008).
+Job demands, on the other hand, decrease employee engagement. According to Eean
+Crawford, job demands are, “physical, social, or organizational aspects of the job that require
+sustained physical or mental effort and are therefore associated with certain psychological costs”
+(Crawford et al., 2010). Job demands require an employee to exert lots of effort to meet a
+specific goal; sustaining this effort overtime causes the employee to feel exhausted and stressed.
+Bakker and Demerouti show that individuals stress because of the potential for losing resources,
+which happens during periods of high job demands, and can quickly lead to burnout. Thus, to
+prevent stress, an individual will need more resources to balance out the lost resources during
+high demand times. If an individual already has many resources, he or she faces reduced stress
+even in times of high job demands (Bakker & Demerouti, 2008).
+However, many researchers have found that job demands are actually terrible predictors
+of job engagement. For example, in one study, job demands like emotional dissonance and
+organizational changes negatively related to engagement, but other demands like high workload
+Conners, 6
+positively related to engagement. Crawford aims to clarify this discrepancy through
+differentiating the types of job demands in the “Differentiated Job Demands-Resources Model.”
+They call the first category of job demands “challenge stressors”, which are stressful, but
+also support things like mastery, personal growth, and future success; some examples include
+high workload, time pressures, and high job responsibility (Crawford et al., 2010). Therefore,
+challenge stressors positively relate to engagement because they fulfill basic needs in the
+employee. They call the second category “hindrance stressors”, which are stressful demands that
+tend to impeded on personal growth and reaching goals. Employees see these demands as
+roadblocks to what they really want to accomplish, so they are inherently disengaging.
+Another popular model in explaining employee engagement is Social Exchange Theory,
+where, “obligations are generated through a series of interactions between parties who are in a
+state of reciprocal interdependence” (Saks, 2006). When applied to engagement, employees
+engage because they feel obligated to do so. This is because overtime, a relationship builds
+between the employee and either co-workers or supervisors through reciprocal exchanges; when
+one party performs an action or service, it is then expected that the other party will repay that
+service. We can then conclude that if a supervisor provides resources for employee success, that
+employee will exert more physical, cognitive, and emotional energy in response.
+Antecedents
+Engaging employees is going to look different for every person and organization, but
+there are some common methods. First, there are personal factors within the employees
+themselves that will make them more engaged, and organizations should try to hire employees
+who match these traits. One of these personal factors is psychological capital, which is defined
+as, “a state of development characterized by having confidence to take on and put necessary
+Conners, 7
+effort, making a positive attribution about succeeding now and in the future, preserving towards
+goals, and redirecting paths to goals in order to succeed” (Bakker et al., 2011). This means that
+an individual who has strong self-efficacy, optimism, hope, perseverance and resilience will
+naturally be more engaged at work. Having a strong core self-evaluation falls in this same idea.
+Bakker explains that Kahn believes, “Individuals with high core self-evaluations appraise
+demands more positively, have greater ability to cope with these demands effectively, and thus
+have more resources available to invest in the performance (Bakker et al., 2011).
+Another personal factor is psychological availability. Rich says individuals who are more
+psychologically available are ready to put in more physical, cognitive, and emotional energy into
+their role. Psychologically available individuals will have high self-confidence, status, and selfconsciousness (Rich et al., 2010). With a higher perceived ability to be successful in a task, the
+employee will be able to exert more energy towards it, and therefore become more engaged.
+If personal factors alone caused higher engagement, then employers would not waste
+resources trying to increase engagement. The next part of engagement occurs from situational
+factors at work: job characteristics, organizational support/climate, rewards and recognition, and
+justice. Job characteristics, according to the Kinicki and Fugate, promote intrinsic motivation
+through designing jobs that have skill variety, task identity, task significance, autonomy, and
+feedback (Kinicki & Fugate, 2018). Job characteristics promote engagement when employees
+use many of their talents, can see how their part plays in the bigger picture, perceive meaning in
+the work, feel they are in control, and receive timely feedback on their work.
+Arguably, the most important situational factor for engagement is the climate for
+organizational support at the company. Perceived organizational support and perceived
+supervisor support are the main drivers of organizational support; defined, these are when the
+Conners, 8
+employee believes that the organization and supervisor values his or her contributions and cares
+about him or her as a person. Saks explains that perceived organizational and supervisor support
+make employees feel safe enough at work that they can fail without fearing the consequences
+(Saks, 2006). This type of environment allows employees to feel comfortable exerting energy
+into the organization, which engages them. It is important to note that organizational support is
+one of the job resources from the Job Demands-Resources model, the fundamental cause of the
+Social Exchange Theory (employees feel obligated to engage at work when their
+supervisor/organization supports them and provides resources) and will come up again in another
+antecedent to employee engagement.
+The next situational factor causing employee engagement stems from rewards and
+recognition. Saks explains that employees feel they have a stronger return on investment from
+their engagement when they receive rewards and recognition for meaningful work. A lack of
+rewards and recognition can also lead to burnout (Saks, 2006). This goes back to the Social
+Exchange Theory; an employee will feel obligated to engage when the organization provides him
+or her with rewards and recognition.
+The last situational factor of employee engagement is justice, defined in both procedural
+and distributive justice. Procedural justice is fairness in the process for determining outcomes
+and consequences, and distributive justice is fairness in who receives how much of the
+consequence or outcome. It is very important than an organization treats the employees fairly
+and consistently, enough that the employees can predict what the reward or punishment will be
+for a certain outcome (Saks, 2006). When employees feel fair treatment at work, they will be
+more willing to exert energy and engage at work; they will also return the favor of justice by
+acting fairly in their work through higher levels of engagement.
+Conners, 9
+The final antecedent to employee engagement is the idea that three psychological
+conditions need to be present in order for the employee to engage. According to Rich, Kahn
+believes when an employee is deciding to engage, he or she will think about the organization and
+tasks in terms of meaningfulness, safety, and availability. Meaningfulness relates to value
+congruence with the work; when the employee’s values line up with the work, the work will
+seem worthwhile, valuable, and useful, which will help that employee engage. (Rich et al.,
+2010).
+The safety component is really looking at the psychological safety within the
+organization. Rich defines psychological safety as, “feeling able to invest oneself without fear or
+negative consequences.” As mentioned earlier, when an employee perceives more support from
+the organization and supervisor, he or she feels comfortable failing, can invest him or herself
+fully, and therefore becomes more engaged. The author goes on to explain, “employees who
+perceive high organizational support have positive and secure expectations concerning the
+organizational likely reactions… and thus they have less reason to fear incurring damaging
+consequences as a result of investing themselves fully” (Rich et al., 2010).
+The last component within the three psychological conditions is psychological
+availability, defined as, “individuals’ readiness to personally engage at a particular moment”
+(Saks, 2006). Employees who are more available are prepared to exert more physical, cognitive
+and emotional energy into their roles. This availability stems from the earlier mentioned core
+self-evaluations: the more confidence and self-efficacy the employee has, the more energy that
+person can exert into the roles, and will therefore be more engaged.
+Outcomes
+Conners, 10
+Why focus on employee engagement in the first place? When employees are more
+engaged in their work, they tend to do a better job overall. According to Gallup, “engaged
+employees achieve 12 percent higher customer satisfaction, 18 percent more productivity, and 12
+percent great profitability” (Kinicki & Fugate, 2018). In many articles, there is no defined
+relationship between engagement and job performance, but many studies and researchers have
+supported a positive relationship. Bakker and Demerouti state that engaged employees received
+higher ratings from co-workers on in-role and extra-role performance than their non-engaged
+counterparts did (Bakker & Demerouti, 2008). As we have learned so far, engagement is about
+maintaining and applying physical, cognitive and emotional energy to a work role. According to
+Rich, investing physical energy into a work role facilitates organizationally valued behaviors at a
+higher effort over time. Investing cognitive energy allows the employee to focus more on tasks,
+and when people pay closer attention, they make fewer mistakes. Investments of emotional
+energy foster a better connection among co-workers towards organizational goals, and help the
+employee genuinely meet the emotional demands of the work (Rich et al., 2010). Overall,
+employees who are engaged in their work dedicate more energy at a greater intensity for longer
+periods, pay more attention to their work, and feel emotionally passionate about their work,
+which likely improves job performance.
+Not only does this show that employees perform better when engaged, but they are also
+willing to go further than their formal duties through organizational citizenship behaviors (OCB).
+OCB are actions by the employee that go above-and-beyond formal job duties to help the
+organization. Although not directly related to performing a task, these behaviors make working
+for the organization a little bit better. According to Rich, the more engaged employees are, “they
+Conners, 11
+should be more willing to step outside the bounds of their formally defined jobs and engage in
+acts that constitute OCB” (Rich et al., 2010).
+Lastly, engaged employees enhance the engagement of other employees through a
+process coined, “engagement contagion.” Bakker and Demerouti define this as, “the transfer of
+positive or negative experiences from one person to the other.” The authors goes on to explain
+that, controlling for demands and resources, engaged workers showed lots of optimism and
+positive affects towards coworkers, which created a positive group feeling and allowed everyone
+to work better as a team (Bakker & Demerouti, 2008). Bakker found that the mood of the leader
+rubbed off on the individual team members, so when a leader was in a good mood, the team
+members were happy as well, which allowed them to cooperate better. (Bakker et al., 2011).
+Engaged employees have better attitude towards their work and experience positive emotions.
+These emotions then influence those of their colleagues, which makes everyone more engaged.
+This then increases both performance and organizational citizenship behaviors across the
+company.
+Implications
+With this information, managers should understand that to make their employees more
+engaged, they should supply them with the correct resources, and find employees who align with
+company values. It is rare to find an employee who is always engaged and always loves his or
+her job. Yet, this is where the challenge and hindrance stressors come in. Although managers
+cannot avoid delegating hindrance demands to employees, they should find a healthy balance
+between “grunt work” and stretch projects that help the employee develop along the way. It is
+also important to understand how the social exchange theory works; figure out what employees
+want, and then give them the resources and support to get there. This theory provides a strong
+Conners, 12
+foundation for building a lasting, trusting relationship where both the manager and employee
+engage themselves for the sake of the other. Managers should also remember to be supportive of
+their employees both professionally and personally, and provide rewards and recognition for a
+job well done. In the end, engagement does not have to be a complicated process; it can and
+should start small so it can become a sustained and prioritized component of the organization.
+Conners, 13
+References
+Bailey, C., Madden, A., Alfes, K., & Fletcher, L. (2017). The Meaning, Antecedents and
+Outcomes of Employee Engagement: A Narrative Synthesis. International Journal of
+Management Reviews, 19(1), 31–53. https://doiorg.argo.library.okstate.edu/10.1111/ijmr.12077
+Bakker, A. B., Albrecht, S. L., & Leiter, M. P. (2011). Key questions regarding work
+engagement. European journal of work and organizational psychology, 20(1), 4-28.
+Bakker, A. B., & Demerouti, E. (2008). Towards a model of work engagement. Career
+development international.
+Crawford, E. R., LePine, J. A., & Rich, B. L. (2010). Linking job demands and resources to
+employee engagement and burnout: a theoretical extension and meta-analytic
+test. Journal of applied psychology, 95(5), 834.
+González-Romá, V., Schaufeli, W. B., Bakker, A. B., & Lloret, S. (2006). Burnout and work
+engagement: Independent factors or opposite poles?. Journal of vocational
+behavior, 68(1), 165-174.
+Kinicki, A., & Fugate, M. (2018). Organizational behavior: a practical, problem-solving
+approach. New York, NY: McGraw-Hill Education.
+Rich, B. L., Lepine, J. A., & Crawford, E. R. (2010). Job engagement: Antecedents and effects
+on job performance. Academy of management journal, 53(3), 617-635.
+Saks, A. M. (2006). Antecedents and consequences of employee engagement. Journal of
+managerial psychology.

@@ -1,0 +1,304 @@
+Engidaw, A. E. (2021). The effect of motivation on employee engagement in public sectors: in the case of North Wollo zone. Journal of Innovation and Entrepreneurship, 10(1). https://doi.org/10.1186/s13731-021-00185-1
+
+‌
+
+
+The effect of motivation on employee engagement in public sectors: in the case of North Wollo zone
+Abriham Ebabu Engidaw 
+Journal of Innovation and Entrepreneurship volume 10, Article number: 43 (2021) Cite this article
+
+30k Accesses
+
+6 Citations
+
+Metricsdetails
+
+Abstract
+The purpose of this study was to examine the effect of intrinsic and extrinsic motivation on employee engagement in public sectors. To meet this purpose, a quantitative and qualitative study survey was conducted and the researcher used an explanatory survey research design. The study was used both primary and secondary sources of data. The target population for this study was selected four city administrative office employees including all kebeles office employees and as a sample size, 349 questionnaires were filled and collected from these employees. The study used proportionately stratified with simple random sampling because to collect the relevant data and to give equal chance for all employees. Later on, statistical package for social science (SPSS) was used to the required test of inferential statistics; including reliability analysis, bivariate correlation, analysis of variance (ANOVA) test, and multiple regression analysis. The finding of the study revealed that extrinsic motivation was considered more significant than intrinsic and there was a positive significant relationship between intrinsic and extrinsic motivations with employee engagement. From the results, it was also concluded that the relationship and effect of extrinsic motivation were stronger on employee engagement as compared to intrinsic motivation. As a recommendation, the organizations should find which ways are able to motivate employees, what drives them, then making sure they utilize appropriate motivational techniques with each employee. Managers should also endeavor to communicate the organization’s purpose to employees. Finally, the organizations should take steps to incorporate the vision of employees for the organization with its own vision.
+
+Introduction
+An unmotivated employee is likely to put little effort into work tasks, produce work of lower quality, avoid the workplace, and even exit his or her job if given the opportunity to do so. On the other hand, motivated employees are likely to willingly take on tasks, produce work of high quality, and be creative, persistent, and productive. Employees motivation has two forms, intrinsic and extrinsic. Intrinsic motivation arises from the intrinsic value of the work for the individual (for example, its interest value), whereas, extrinsic motivation arises from the desire to obtain some outcomes (for example, as rewards) that are apart from the work itself (Amabile, 1993). Each and every person in an organization is motivated in a different manner. Workers’ motivation depends on many intrinsic and extrinsic factors like interesting work, job appreciation, satisfaction, stress, job security, promotion and growth, rewards, work environment, punishment and recognition etcetera (Palaniammal, 2013).
+
+The main purpose of these motivating factors is to create an environment where people are willing to work with zeal, initiative, interest, and enthusiasm, with a high personal and group satisfaction, with the sense of responsibility, loyalty, and confidence to achieve their personal as well as organizational goals (Palaniammal, 2013). Research has shown that there is a difference in strength between intrinsic and extrinsic motivation on their relationship and impact on employee engagement. Khan (2011) concluded that the relationship and impact of extrinsic motivation were stronger on employee engagement as compared to intrinsic motivation.
+
+According to Shuck (2010) employee engagement is an individual employee’s cognitive, emotional, and behavioral state directed toward desired organizational outcomes. Recently, Rice (2012) defined engagement as full employee engagement represents an alignment of maximum satisfaction for the individual with a maximum contribution for the organization’s success. The focus of all definitions was on two things, employee satisfaction and contribution to organizational success.
+
+According to different researchers’ study results, employee motivation can be used to engage employees in their work in the organization. Beyond motivation, to achieve success in today’s highly competitive environment many organizations have identified the need to engage their workforce. Habte (2016) concluded that managers perceive intrinsic motivation have a larger influence on the psychological aspects of employee engagement than extrinsic motivation. This supports the idea stated by Berl and Williamson (1987) but still contradict with the finding of Iqbal and Khan. When we see the above research findings: the study conducted by Khan (2013) is contradicted with the findings of Habte (2016), Thomas (2009) and Khan (2011).
+
+This study was carried out in four selected city administration office employees in order to know and explain the effect of motivation on employee engagement. Basically, the researcher is initiated to conduct this study because based on his observation and preliminary investigation there is a problem of employees being motivated and engaged in public sectors and the other reasons are first there is the inconsistency of previous findings relating to this topic, second as the researcher’s knowledge there are few studies conducted directly related to this topic specifically in our country Ethiopia. So this study can try to fill these gaps. Based on the above research problems the researcher developed the following research questions:
+
+Objectives of the study
+General objective
+The main objective of this study was to identify the effect of motivation (intrinsic or extrinsic) on employee engagement in public sectors in the case of selected zones.
+
+Specific objectives
+1.
+To explain the effect of intrinsic motivation on employee engagement in selected city administration employees.
+
+2.
+To describe the effect of extrinsic motivation on employee engagement in selected city administration office employees.
+
+3.
+To identify which motivation factor (intrinsic or extrinsic) more significantly affects employee engagement in the organization.
+
+4.
+To examine the effect of overall motivation on employee engagement.
+
+Literature reviews
+Employee engagement
+Employee engagement is defined as “harnessing of organizational members selves to their work roles; in engagement, people employ and express themselves physically, cognitively and emotionally during role performance”, In other words, “individual involvement and satisfaction as well as enthusiasm for work” Andrew (2012).
+
+According to Kahn (1990, 1992, cited in Saks, 2006) job engagement means worker should be psychologically available during the performance of the organizational role.
+
+The organization is totally dependent on their employees; therefore, they need to be engaged in their jobs. Engagement in the organization’s jobs enables employees to make operations successful, as it runs with the mutual commitment of organizations and employees. When organization employees will engage, they will use their potential to drive high performance (provide better services and attract maximum customers). Engage employees are more dedicated and helping to maximize the organization’s productivity. They are more likely to consider themselves as an employer. Therefore, organizations should pay attention to the employee engagement concept. Otherwise, it can be the biggest threat to the organization’s success. If the organization’s management is not interested in engaging employees, consequently it would lead to unsatisfactory beneficiaries and lose their customers (Andrew & Sofian, 2012).
+
+From the theories and literature discussed above the researcher identified two broad motivation factors called intrinsic and extrinsic motivation and these motivation factors are also identified as an independent variable because they have an effect on the dependent variable, employee engagement, in one way or another.
+
+Intrinsic motivation
+According to Berl and Williamson (1987) intrinsic motivation is defined as the doing of an activity for its inherent satisfactions rather than for some benefits. Intrinsic motivation can be defined as the motivation to perform an activity in order to experience the pleasure and satisfaction inherent in the activity. They also further stated intrinsic motivation focuses on factors inside the individual which are based on personal needs. Employees get intrinsic reward directly from the job they perform, job satisfaction, interesting work, job appreciation, or the sense they help a client, Intrinsic motivated workers employ in a job because of their own interest in it and enjoy the job due to search for new solutions for business challenges and are more likely to burn up energy to identify problems and find innovative solutions.
+
+From the Khan (2013) findings, they concluded that managers perceive intrinsic motivation as generally having a larger influence on the psychological aspects of employee engagement. They found that extrinsic motivation is of importance to employee engagement, though to a lesser extent psychologically but rather as a part of the total package that is offered to the employee by the organization and the manager. Habte (2016) concluded that managers perceive intrinsic motivation have a larger influence on the psychological aspects of employee engagement than extrinsic motivation. This conclusion leads to the next research hypothesis development on this research:
+
+Hypothesis 1
+Intrinsic motivation has a positive significant effect on employee engagement.
+
+Extrinsic motivation
+Extrinsic motivation is defined as a construct that pertains whenever an activity is done in order to attain some separable outcome and refers to doing an activity simply for the enjoyment of the activity itself, rather than its instrumental value (Deci & Ryan, 2008). Or it can be the rewards offered to employees as an encouragement to engage in a behavior/task in which they cannot employ or “an employee is inner-directed, is interested or fascinated with a task and engages in it for the sake of task itself” (Zhang, 2010). When organizations wanted to fulfill a task from employees, they deal with monetary rewards and other tangible benefits. It referred to extrinsic rewards in motivational language. Management should know what motivates their workers and manipulate motivational techniques based on employees ’s desires. This would help organizations to recognize, educate and retain creative and productive employees for their engagement. For organizations to be better products and to have efficient performance, both extrinsic and intrinsic reward systems should be introduced. The purpose of explaining motivation (extrinsic, intrinsic) is to identify which motivation affects and has a relation with job engagement. Employees consider both important factors for their job motivation but some employees consider it more in line with extrinsic than intrinsic and vice versa (Zhang, 2010).
+
+The study of Khan (2013) also concluded that the relationship and impact of extrinsic motivation were stronger on employee engagement as compared to intrinsic motivation. Thomas (2009) saying about intrinsic motivation at work stated that intrinsic rewards become more important and more prevalent in the workplace today. The above review leads to the following research hypothesis:
+
+Hypothesis 2
+There is a positive significant effect relationship between extrinsic motivation and employee engagement.
+
+Overall motivation and employee engagement
+Khan (2013) conducted research on the relationship between work motivation (intrinsic and extrinsic) and employee engagement on Allied Bank of Pakistan. The finding of the study revealed that there is a positive relationship between intrinsic motivation and employee engagement, and extrinsic motivation and employee engagement. Four intrinsic factors namely interesting work, job appreciation, satisfaction, and stress, and four extrinsic factors namely job security, good wages, promotion and growth, and recognition were identified as important factors for engagement. The study concluded that there is a positive relationship between intrinsic motivation and employee engagement, and extrinsic motivation and employee engagement. Furthermore, it is also concluded both intrinsic and extrinsic motivation has a strong positive impact on employee engagement.
+
+Aworemi (2011) conducted research on the motivational factors of employees and their influence on employee engagement Nigeria and Marginson (1991) conducted research on academic salaries: will award restructuring make a difference in employees’ engagement? And many researchers raised many issues and get different findings of motivational factors for employee engagement. By considering these reviews the researcher developed the next hypothesis:
+
+Hypothesis 3
+There is a positive significant effect relationship between overall motivation and employee engagement.
+
+Empirical literature review
+Khan and Iqbal (2013) study concluded that there is positive relationship between intrinsic motivation and employee engagement, and extrinsic motivation and employee engagement. Furthermore, it is also concluded both intrinsic and extrinsic motivation has strong positive impact on employee engagement. The study also concluded that the relationship and impact of extrinsic motivation was stronger on employee engagement as compared to intrinsic motivation.
+
+Bergstrom and García (2016) studied the influence of intrinsic and extrinsic motivation on employee engagement in private and public organizations. However the study focused on the perceptions of managers “not employees”. From the findings study they concluded that managers perceive intrinsic motivation as generally having a larger influence on the psychological aspects of employee engagement. They found that extrinsic motivation is of importance to employee engagement, though to a lesser extent psychologically but rather as a part of the total package that is offered to the employee by the organization and the manager. Thomas (2009) saying about intrinsic motivation at work, stated that intrinsic rewards become more important and more prevalent in the workplace today.
+
+Habte (2016) concluded that managers perceive intrinsic motivation have a larger influence on the psychological aspects of employee engagement than extrinsic motivation. This supports the idea stated by Bergstrom and García (2016) but still contradict with the finding of Iqbal and Khan.
+
+Michael (2008) conducted study on using motivational strategy as solution for employee retention and turnover in both public and private sector organizations in South Africa and the researchers used training and development, recognition, reward, a competitive salary package and job security as motivational factors. Kassa (2015) in his research on motivation and its effect on employee retention in Ambo Mineral Water Factory, stated that employees are highly motivated with reward motivational factors and are less motivated with interesting work and training and development and working environment motivational factors.
+
+Owusu (2012) conducted research on the effects of motivation on employee performance of commercial bank in Ghana and the researcher used salary, fringed benefits, promotion, and loans as motivational factors. Pessaran and Tavakoli (2011) conducted research on identifying the employees’ motivation of Parsian hotels in Tehran and the study used salary, security, working condition, status, achievement, recognition, growth and advancement, work itself and responsibility as motivational factors.
+
+Conceptual framework
+After reviewing the relevant concepts and theories of motivation (intrinsic, extrinsic) and employee engagement mentioned in this chapter, the conceptual framework of the study has been developed as shown in the following figure (Fig. 1).
+
+Research methodology
+To achieve this study’s purpose, the researcher has used an explanatory survey research design, and also quantitative and qualitative study survey was employed. Standard close-ended questionnaires were used as a survey tool. The study was used both primary and secondary sources of data. The target population for this research was four city administrative office employees including all kebeles office employees and 349 questionnaires were collected from employees. The study used proportionate stratified with simple random sampling because to collect the relevant data and to give equal chance for all employees.
+
+Since the organization under the study has four city administrations in different area. The sample was drawn from all city administrative offices proportionally as follows (Table 1).
+
+Table 1 Sample proportion of respondents
+Full size table
+After the proper data collection, coding, and organization, the study data were analyzed using descriptive and inferential statistics. Under the descriptive statistics, mean and standard deviation are used and bivariate correlation was used to see whether the independent variables (intrinsic motivation and extrinsic motivation) have a relationship with the dependent variable (employee engagement). To determine the effect of independent variables (intrinsic motivation and extrinsic motivation) on the dependent variable (employee engagement) multiple linear regression analyses were used.
+
+Measurements of variables
+The independent variables for this study are intrinsic motivation and extrinsic motivation whereas the dependent variable was employee engagement. The researcher used standardized close-ended and some open-ended questionnaire instruments for collecting the primary sources of data. Questionnaires concerning employee engagement used are adapted from Gallup’s 12 standard questionnaires on the other hand questionnaires regarding intrinsic and extrinsic motivation is adopted from Khan (2013) Five-point Likert-Style rating scale was deployed in order to know the employees level of agreement on the effect of motivation (intrinsic and extrinsic) and employee engagement. The questionnaire has three parts; the first part is about demographic variables, the second part was about intrinsic and extrinsic motivation, and the last part also about employee engagement. Intrinsic and extrinsic motivation have 8 items each and employee engagement had 12 items and both are used five-point Likert scale ranging from strongly disagree (1) to strongly agree (5).
+
+No
+
+Items used to measure variables
+
+1
+
+I am interested in my work
+
+2
+
+Organizational management is making the work interesting by introducing unique job contents
+
+3
+
+I often receive appreciation for good work
+
+4
+
+Feedback on my job performance from the organization persuades me for more hard work
+
+5
+
+Working for the organization give me a sense of satisfaction
+
+6
+
+Considering everything I am satisfied with my job
+
+7
+
+Heavy work load and long working hours make me exhausted
+
+8
+
+I work below the level of my competences
+
+ 	
+(Extrinsic motivation)
+
+9
+
+Job security will give me a sense of engagement in my job
+
+10
+
+Insecurity of job may add low quality to my work
+
+11
+
+My salary is satisfactory in relation to what I do
+
+12
+
+I earn the same as or more than other people in a similar job
+
+13
+
+I am getting promotion on fairly basis
+
+14
+
+My organization provides me training that enable me to learn new things
+
+15
+
+Recognition is an effective method for employee motivation
+
+16
+
+I often get bonuses for good work
+
+ 	
+Employees engagement
+
+17
+
+I know what is expected of me at work
+
+18
+
+I have the materials and equipment I need to do my work right
+
+19
+
+At work, I have the opportunity to do what I do best every day
+
+20
+
+In the last 7 days, I received recognition or praise for doing good work
+
+21
+
+My supervisor, or someone at work, seem to care about me as a person
+
+22
+
+There is someone at work who encourages my development
+
+23
+
+At work, my opinions seem to count
+
+24
+
+The mission/purpose of my company make me feel my job is important
+
+25
+
+My co-workers committed to doing quality work
+
+26
+
+I have a best friend at work
+
+27
+
+In the last 6 months, someone at work talked to me about my progress
+
+28
+
+This last year, I had opportunities at work to learn and grow
+
+Results
+Discussion
+The study was aimed at analyzing the effect of motivation on employee engagement at selected city administration offices. The dependent variable employee engagement and independent variables extrinsic and intrinsic motivation mean score was comparatively moderate. This points out that the greater part of respondents has a minor agreement on all measures. And also it shows that there was not a problem of multi co linearity, normality, and linearity in the study variables.
+
+Based on the Table 2 result, the Pearson product-moment correlation analysis result showed that there is a moderate positive and significant relationship between intrinsic motivation and employee engagement at .329 and sig .000. This implied if the intrinsic motivation for the employees is increased it will also increase their engagement level. Lower employee intrinsic motivation will also lower their engagement level. The results of bivariate correlation confirmed that there is a moderate positive significant relationship between extrinsic motivation and employee engagement at .444 and sig level of .000. This implied if the extrinsic motivation for the employees is increased it will make significant positive changes in employee engagement. By lowering employee extrinsic motivation, employee engagement will also be lower. The study result showed that there was a moderate positive relationship between overall motivation and employee engagement. Also, extrinsic motivation had a more moderate positive relation with employee engagement as compared to intrinsic motivation.
+
+Table 2 Correlations result
+Full size table
+Table 3 multiple regression analysis results portray that R square is .252 and adjusted R square is .248. This implied that 24.8% variation in employee engagement is explained by motivation in selected city administrations. In addition, the significance value of F statistics indicates a value .000 and it was less than p < .05 so that it means the model was significant enough.
+
+Table 3 Model summary
+Full size table
+Also based on Table 4 result, multiple linear regression analysis results also confirmed that intrinsic motivation has a positive significant effect on employee engagement with the unstandardized Beta value of (.249, sig. level .000). As a result, the regression coefficient clarifies the average amount of change in employee engagement was affected by a unit of change in intrinsic motivation.
+
+Table 4 Regression coefficients
+Full size table
+Regression analysis results also confirmed that extrinsic motivation had also a moderate positive significant effect on employee engagement. Since the beta value is .389 with a significance level of .000. Also, the result of extrinsic motivation showed it had a more moderate positive significant effect on employee engagement as compared to intrinsic motivation.
+
+Furthermore, regression analysis was used to find out the effect of motivation on employee engagement. The result of the model summary from regression analysis indicated that overall motivation has a moderately positive effect on employee engagement. As a result, the regression coefficient clarifies the average amount of change in employee engagement was affected by a unit of change in motivation. The finding of the study indicated that intrinsic motivation has a highly significant effect on employee engagement compared to extrinsic motivation.
+
+Based on open-ended questions feedback in the mentioned offices promotion and other related benefits are based on the strength of relationship with administers, there is a high shortage of working materials, there is no clear authority and responsibility delegation, no attractive work environment, no clear plan is prepared, fairness problem, high workload with unsatisfactory incentive and salary, there is the unnecessary intervention of managers at work, even superiors are not punctual and their incompetency/low problem-solving ability, some employees are hired on the unrelated job with their profession. Additionally, payments are not delivered on time, availability of hostile attitude, no motivational packages are available in those offices, customers’ poor discipline and others are things leading to be demotivated at their work and other related problems are available on those offices.
+
+Comparison of the result of this study with the result of previous researches
+As mentioned in the literature reviewed, the study of Christian et al. (2011) and Chalofsky and Krishna (2009) suggested that there was link between work engagement and motivational factors. Kahn (1990) and May et al. (2004) also relate employee engagement to motivation. Fairlie (2011) and Macey and Schneider (2008) pointed out that an investigation is required to find the link between work motivation and employee engagement. Thomas (2009) saying about intrinsic motivation at work, stated that intrinsic rewards become more important and more prevalent in the workplace today. Habte (2016) concluded that managers perceive intrinsic motivation have a larger influence on the psychological aspects of employee engagement than extrinsic motivation. Hence the finding of this study also supports these previous findings and also it contradicted with Habte (2016) finding.
+
+Conclusions of the study
+The study also examined the effect of intrinsic and extrinsic motivation on employee engagement. Four hypothesis questions were tested to answer the research question and fulfilled the research purpose. To achieve this objective, a quantitative and qualitative study survey was conducted and the researcher used an explanatory survey research design. A Standard close-ended questionnaire was used as a survey tool. The study was used both primary and secondary sources of data. The target population for this study was selected four city administrative office employees including all kebeles office employees) and as a sample size, 349 questionnaires were filled and collected from these employees. The study used proportionately stratified with simple random sampling because to collect the relevant data and to give equal chance for all employees. Later on, statistical package for social science (SPSS) software was used for the required test of inferential statistics; including reliability analysis, bivariate correlation, analysis of variance (ANOVA) test, and multiple regression analysis. From the findings of the research, it is concluded by answering the research questions and there is a significant positive relationship between intrinsic motivation at .329 and sig .000 and employee engagement and there is a positive significant relationship between extrinsic motivation and employee engagement at .444 and sig level of .000.
+
+Findings of multiple regressions analysis portray that that intrinsic motivation has a positive significant effect on employee engagement with the unstandardized Beta value of (.249, sig. level .000). As a result, the regression coefficient clarifies the average amount of change in employee engagement was affected by a unit of change in intrinsic motivation. So that the decision rule in this research’s first hypothesis is to accept the alternative hypothesis.
+
+Hypothesis 1
+Intrinsic motivation has a positive and statically significant effect on employee engagement at (Beta value of .249, sig. level .000). So the decision is to accept the alternative hypothesis and reject null hypothesis.
+
+And also the regression analysis results confirmed that extrinsic motivation had also a moderate positive significant effect on employee engagement. Since the beta value is .331 with a significance level of .000. Also, the result of extrinsic motivation showed it had a more moderate positive significant effect on employee engagement as compared to intrinsic motivation. Based on the above study result the decision is to accept the alternative hypothesis and reject the null hypothesis of hypothesis two.
+
+Hypothesis 2
+There is a positive significant effect relationship between extrinsic motivation and employee engagement at the beta value of .331 with a significance level of .000. So the decision is to accept the alternative hypothesis and to reject the null hypothesis.
+
+When we test hypothesis three, the study revealed that there exists a positive significant relationship between both intrinsic and extrinsic motivation and employee engagement. There was also sufficient evidence to conclude that in addition to these relationships successful motivational factors (intrinsic and extrinsic) had positive effects on employee engagement in selected city administration office employees. Hence, for the management to stimulate employees' motivation and also to improve the level of staff works engagement, greater efforts must be placed on the two perceived motivating factors. In addition, as the open-ended question result, there is a low motivation with weak employees’ engagement at work in those offices. So the decision is to accept the alternative hypothesis.
+
+Hypothesis 3
+There is a positive significant effect relationship between overall motivation and employee engagement. The decision is to accept the alternative hypothesis and to reject the null hypothesis.
+
+Limitation of the study
+In this study, the independent variables, intrinsic and extrinsic motivations were explained only 24.8% of the variation in employee engagement, but the other 75.2% were explained by other factors that were not included in this study. So, future studies could examine the rest variables which can explain the variation in employee engagement.
+
+The study was only focused on four city administration office employees. Therefore, future researchers relating to this topic should assess in a wider and larger scope to include other private organizations and increase the generalizability of the study.
+
+Besides this study, a comparative study could be done to know what the difference is available in different sectors relating to this topic. And another limitation is the research variable taken is subject to the understanding and knowledge of the researcher.
+
+Recommendations
+Recommendations for policy and practice
+The study result shows that employees of selected city administrations were motivated by both extrinsic and intrinsic motivations but they were more motivated by intrinsic motivation factors than extrinsic ones. So the management of those offices should give relevant attention to these factors to stimulate the employee’s engagement while developing and or revising strategies and policies for their organization.
+
+The management and policymakers of selected city administrations should use rigorous efforts in encouraging employees intrinsic and intrinsic motivation for better work engagement by creating an attractive work atmosphere and satisfaction, provide appreciation for good performers, moreover the management should also increase employees extrinsic motivation by creating job security, provided promotion and growth, benefits, and good salary, give appropriate reward and recognition for employees, provide opportunities to some form of ownership, as well as increased responsibility and authority.
+
+The organization should find which ways are able to motivate employees, what drives them, then making sure they utilize appropriate motivational techniques with each employee. Managers should also endeavor to communicate the organization's purpose to employees. Finally, the organizations should take steps to incorporate the vision of employees for the organization with his or hers own vision. This will motivate employees to engage and contribute to the organization’s goals.
+
+These offices should give a fair promotion and other related benefits, solve the shortage of working material problems, should set clear authority and responsibility delegation, create an attractive work environment, clear work plan to be prepared, minimize workload and make satisfactory incentive and reward based on their performance, avoid the unnecessary intervention of managers at work, solve unpunctuality problem and could improve managers skill by developmental programs to make them more experienced, some employees are hired on the unrelated job with their profession so review and correct this issue are better. Additionally, payments should to deliver on time, motivational packages should present in those offices, and also to increase employees engagement the office should facilitate short term and long term work-related training, perform periodic performance appraisal, make supervision and control at work, reduce time management problems and unpunctuality, prepare benefit package and equal reward systems, better to make decision makings more participative and open to motivate employees or to create a sense of ownership, should give induction pieces of training when new entrants have joined the office, minimize the availability of corruption and unethical activities, work to keep rule and regulations, try to solve the shortage of office facilities, better to make a fast decision, and other related problems should be solved on those offices.
+
+Generally, selected city administrations should communicate with employees regarding how looks like their motivation and engagement, which things should be fulfilled and the organizations management could assess more factors that are most important to increase employees engagement at work and it should make important corrective actions, it will make employees more engaged, strengthen their relationship with the university as well as it will make employees more motivated and loyal to the organization.
+
+Implications of the study
+Theoretical implications
+This study can contribute to the existing literature in employees motivation, their engagement at work and effective human resource management and identifies the ways to satisfy/motivate these employees’ to increase organizational performance. Basically my findings are aligned with those of other scholar’s works relating to this topic and are important to show/provide interesting and recent perhaps promising areas to work on under the recent world.
+
+Practical implications
+The actual result of the paper also provide recommendations for public organizations on how to be more competitive through managing their employees, motivating them and also through resilience and renewal different human resource management strategies, and the researcher has also gave relevant recommendations for policymakers and other concerned bodies as shown in above.
+
+Suggestion for future study
+The research was conducted from employees’ perspective only by using employees’ engagement. It should be interesting to consider from the perspective of managers by using managers engagement.
+
+The researcher conducted more of quantitative study; deep qualitative study could also be adopted to validate the results of this study. Employees of government organizations and none government organizations may motivate indifferent way, hence it should also be interesting to study from perspective of employees of government organizations.
+
+From the findings of the study it is concluded that the model which included intrinsic motivation (IM) and extrinsic motivation (EM) explained only 25.2% of the variance of employee engagement the rest 74.8% may be due to the other variables which were not included in this study and left for further study.
+
